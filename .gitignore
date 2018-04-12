@@ -26,3 +26,5 @@ testem.log
 
 #System Files
 .DS_Store
+bundle.js
+bitnami-aws-314072368771
