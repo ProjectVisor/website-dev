@@ -1,0 +1,425 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5 {
+  font-weight: 600;
+}
+
+header.masthead {
+  position: relative;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  color: #fff;
+  /*background: url(../img/bg-pattern.png),#000a83;
+  background: url(../img/bg-pattern.png),-webkit-linear-gradient(to left,#cd005f,#0005a8);
+  background: url(../img/bg-pattern.png),linear-gradient(to left,#cd005f,#0005a8);*/
+  background: url(../img/mast-bkg.jpg),linear-gradient(to left,#6a3100,#3a479f) no-repeat;
+  background-blend-mode: soft-light;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.branding {
+  width: 90px;
+  cursor: pointer;
+  z-index: 2;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Lato";
+  font-weight: 300;
+  cursor: pointer;
+}
+
+nav {
+  float: right;
+}
+nav > a {
+  color: #fff;
+  margin: 0 25px;
+  font-weight: 400;
+  font-size: 14px;
+}
+nav > a:last-of-type {
+  margin-right: 0;
+}
+.navbar {
+  padding: 1.5em;
+}
+.navbar-brand,
+.navbar-shrink .navbar-brand {
+  background: url(/img/visor-logo-blk.svg) no-repeat 100%;
+  font-size: 0;
+  height: 25px;
+  width: 75px;
+}
+@media only screen and (min-width: 992px) {
+  .navbar-brand {
+    background-image: url(/img/visor-logo-wt.svg);
+  }
+}
+
+.landing-hero {
+  position: relative;
+  width: 75%;
+  display: block;
+  margin: auto;
+  bottom: -50px;
+  z-index: 1;
+}
+
+.title, .subtitle{
+  text-align: center;
+  font-family: "Lato";
+  color: white;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.button {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 30px;
+  padding: 12px 40px;
+  border-radius: 40px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: 2px solid #fff;
+  background-color: rebeccapurple;
+  box-shadow: 0 0 20px 4px #ffffff42;
+  transition: all ease-in-out 0.15s;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.section-a, .section-b {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #FAFAFC;
+}
+
+.heading, .paragraph {
+  color: #2F3133;
+  font-family: "Lato";
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+hr {
+  max-width: 60px;
+  margin: 0px;
+  margin-top: -20px;
+  background: transparent;
+  border: 0;
+}
+
+.paragraph {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 2;
+  letter-spacing: 2;
+}
+
+.section-c {
+  padding-top: 20px;
+  padding-bottom: 60px;
+  background: #FAFAFC;
+  background-size: cover;
+}
+.section-c .button {
+  background: #0000000a;
+}
+
+.footer {
+  padding: 35px 0;
+  background: #333;
+}
+.footer * {
+  transition: all ease-in-out 0.15s;
+}
+.footer .branding, .footer nav > a {
+  opacity: 0.6;
+}
+.footer .branding:hover, .footer nav > a:hover{
+  opacity: 1;
+}
+
+.laptop, .article-cover {
+  position: relative;
+  margin: auto;
+  display: block;
+  width: 70%;
+}
+
+.article {
+  color: blue;
+}
+
+.user-message {
+  position: absolute;
+  left: 43%;
+  color: #333333;
+  font-size: 10px;
+  bottom: 1%;
+  font-family: "Lato";
+}
+
+.bot-message {
+  position: absolute;
+  left: 43%;
+  color: #333333;
+  font-size: 10px;
+  bottom: 11%;
+  font-family: "Lato";
+}
+
+.user-avatar {
+  position: absolute;
+  border-radius: 5px;
+  left: -21%;
+  height: 100%;
+  width: 18%;
+}
+
+.bot-avatar {
+  position: absolute;
+  border-radius: 5px;
+  left: -15.5%;
+  height: 70%;
+  width: 13.5%;
+}
+
+.username {
+  font-weight: 700;
+  opacity: 1;
+}
+
+.message {
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+/* CSS3 Animations */
+.levitate {
+  -webkit-animation: fadeInDown 5s 1, levitate 5s infinite;
+  -moz-animation: fadeInDown 5s 1, levitate 5s infinite;
+}
+
+
+@-webkit-keyframes fadeInDown {
+  0% {
+    -webkit-transform: translateY(-50px);
+    opacity:0;
+  }
+
+  100% {
+    -webkit-transform: translateY(20px);
+    opacity:1;
+  }
+}
+@-moz-keyframes fadeInDown {
+  0% {
+    -moz-transform: translateY(-50px);
+    opacity:0;
+  }
+
+  100% {
+    -moz-transform: translateY(20px);
+    opacity:1;
+  }
+}
+
+@-webkit-keyframes levitate{
+  0% {
+    -webkit-transform: translateY(-10px);
+
+  }
+
+  50% {
+    -webkit-transform: translateY(15px);
+  }
+
+  100%{
+    -webkit-transform: translateY(-10px);
+  }
+
+}
+
+@-moz-keyframes levitate{
+  0% {
+    -moz-transform: translateY(-10px);
+  }
+
+  50% {
+    -moz-transform: translateY(15px);
+
+  }
+
+  100%{
+    -moz-transform: translateY(-10px);
+  }
+}
+
+.pulse {
+  box-shadow: 0 0 0 rgba(255, 255, 255, 0.4);
+  animation: pulse 2s infinite;
+}
+.pulse:hover {
+  animation: none;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+  }
+  70% {
+    -webkit-box-shadow: 0 0 0 14px rgba(204, 169, 44, 0);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+  }
+  70% {
+    -moz-box-shadow: 0 0 0 14px rgba(204, 169, 44, 0);
+    box-shadow: 0 0 0 10px rgba(204, 169, 44, 0);
+  }
+  100% {
+    -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
+    box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
+  }
+}
+
+/* Custom styles and overrides */
+#mainNav.navbar-shrink {
+  background: rgba(255, 255, 255, 0.97);
+}
+#mainNav:not(.navbar-shrink) {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3690f0+0,321570+36,b2217f+69,75f1ff+100 */
+  /*background: #3690f0; !* Old browsers *!
+  background: -moz-linear-gradient(135deg, rgba(0, 123, 255, 0) 0%,rgba(48, 0, 151, 0.6) 36%,rgba(0, 145, 255, 0.45) 69%,rgba(39, 0, 0, 0.39) 100%); !* FF3.6-15 *!
+  background: -webkit-linear-gradient(135deg, rgba(0, 123, 255, 0) 0%,rgba(48, 0, 151, 0.6) 36%,rgba(0, 145, 255, 0.45) 69%,rgba(39, 0, 0, 0.39) 100%); !* Chrome10-25,Safari5.1-6 *!
+  background: linear-gradient(135deg, rgba(0, 123, 255, 0) 0%,rgba(48, 0, 151, 0.6) 36%,rgba(0, 145, 255, 0.45) 69%,rgba(39, 0, 0, 0.39) 100%); !* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ *!
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3690f0', endColorstr='#75f1ff',GradientType=1 ); !* IE6-9 fallback on horizontal gradient *!*/
+  border-bottom: 1px solid rgba(255, 255, 255, 0.29);
+  background-color: transparent;
+}
+#mainNav:not(.navbar-shrink) .navbar-brand {
+  background: url(/img/visor-logo-wt.svg) no-repeat 100%;
+}
+#mainNav:not(.navbar-shrink) .navbar-toggler,
+#mainNav:not(.navbar-shrink) .navbar-nav>li>a,
+#mainNav:not(.navbar-shrink) .navbar-nav>li>a:focus {
+  color: #fff;
+}
+#mainNav .navbar-nav > li > a.nav-link {
+  font-size: 12px;
+  margin: 0 10px;
+}
+#mainNav .navbar-toggler {
+  font-size: 16px;
+}
+.navbar-light .navbar-toggler {
+  border: 0;
+}
+.collapse.show {
+  margin-top: 20px;
+  transition: all 200ms ease-in-out;
+}
+#mainNav:not(.navbar-shrink) .collapse.show {
+  background: rgba(43, 28, 153, 0.96);
+  border-radius: 20px;
+  padding: 20px;
+}
+@media only screen and (min-width: 992px) {
+  #mainNav:not(.navbar-shrink) .collapse.show {
+    background-color: transparent;
+    border-radius: 0;
+    padding: 0;
+  }
+  .collapse.show {
+    margin-top: 0;
+  }
+}
+.btn-outline {
+  color: #fff;
+  background: linear-gradient(to right top, rgb(4, 124, 255), rgba(0, 255, 141, 0.75));
+  border: 3px solid #fff;
+}
+.btn-outline.active, .btn-outline:active, .btn-outline:focus, .btn-outline:hover {
+  color: #fff;
+  border-color: #fff;
+  background: none;
+  box-shadow: none;
+}
+
+section.cta .cta-content h2 {
+  font-size: 40px;
+}
+@media (min-width: 768px) {
+  section.cta .cta-content h2 {
+    font-size: 50px;
+  }
+}
+
+.whitepaper {
+  background: url('/img/moon-earth-horizon.jpg') no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff;
+}
+
+.diamond {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  font-size: 0;
+  position: absolute;
+}
+.diamond-bl {
+  border-width: 250px 0 0 700px;
+  border-color: transparent transparent transparent #fafafc;
+  left: 0;
+  margin-top: -240px;
+  z-index: 0;
+}
+.diamond-br {
+  border-width: 0 0 250px 700px;
+  border-color: transparent transparent #fafafc transparent;
+  right: 0;
+  margin-top: -240px;
+  z-index: 0;
+}
+
+/* helpers */
+.mt-50 {
+  margin-top: 50px;
+}
+
