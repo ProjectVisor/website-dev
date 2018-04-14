@@ -421,8 +421,10 @@ section#features .feature-item h3 {
   color: #ff3684;
 }
 section.features .feature-item i {
-  background: -webkit-linear-gradient(to left,#fe3684,#3dd8cd);
-  background: linear-gradient(to left,#fe3684,#3dd8cd);
+  background: linear-gradient(to left,#fe3684 50%,#ff95bf 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 0px 8px #fe3684;
 }
 section#features {
   background: url(/img/abstract-3-bkg.jpg), linear-gradient(to right,rgb(27, 32, 140),rgb(78, 20, 7)) no-repeat;
