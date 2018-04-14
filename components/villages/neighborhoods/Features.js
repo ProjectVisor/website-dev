@@ -24,7 +24,7 @@ class Features extends React.Component {
                       <h3>Privacy & Security</h3>
                       <p>
                         In order to maximize privacy, we implemented two protocols in the code and our QT wallet:
-                        TOR and I2P so that everyone can enjoy the highest protection and privacy using Visor Coin.
+                        TOR and I2P so that everyone can enjoy the highest level of protection and privacy using Visor Coin.
                         In the future, we intend to implement something very special to drastically increase Visor's scalability.
                       </p>
                     </div>
@@ -35,7 +35,7 @@ class Features extends React.Component {
                       <h3>High Scalability & No Fees</h3>
                       <p>
                         Through the use of multi-algorithms, Visor's scalability is very high. However,
-                        we will continue to work to constantly improved this aspect. After voting, the Visor team decided
+                        we will continue to work to constantly improve this aspect. After voting, the Visor team decided
                         that there will be no fees between XVR transactions.
                       </p>
                     </div>
@@ -47,9 +47,9 @@ class Features extends React.Component {
                       <i className="fa fa-users fa-5x text-primary"/>
                       <h3>Community Driven</h3>
                       <p>
-                        Visor is created <b>by</b> people, <b>for</b> people, which means that our community is the biggest part of our
-                        team, that's why our development team is always in close relations with our community.
-                        Our project has an open source code which literally anyone can look at at any moment.
+                        Visor is created <b>by</b> the people, <b>for</b> the people, which means that our community is
+                        the biggest part of our team, that's why our development team is always in close relations with
+                        our community. Our project has open source code, which can be viewed publicly at any given time.
                       </p>
                     </div>
                   </div>
