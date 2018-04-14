@@ -410,7 +410,7 @@ section.features .feature-item {
 section#features .feature-item {
   box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.1);
   margin: 10px auto;
-  background: rgba(53, 20, 70, 0.82);
+  background: rgba(26, 20, 70, 0.82);
 }
 section#features .feature-item p {
   color: #ffd7e7;
@@ -422,7 +422,7 @@ section#features .feature-item h3 {
   color: #ff3684;
 }
 section.features .feature-item i {
-  background: linear-gradient(to left,#fe3684 50%,#ff95bf 50%);
+  background: linear-gradient(to left,#fe3684 50%,#ff4af9 50%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0px 0px 8px #fe3684;
@@ -439,6 +439,11 @@ section#features .section-heading p {
 section#features,
 section#features .text-muted {
   color: #fff;
+}
+section#visorPay {
+  background: url('/img/ny-bkg.jpg');
+  background-size: 190%;
+  background-position: -360px;
 }
 
 .diamond {

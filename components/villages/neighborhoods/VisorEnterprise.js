@@ -10,7 +10,7 @@ class VisorEnterprise extends React.Component {
         <div className="cta-content">
           <div className="container">
             <h2>Visor Enterprise<br/>the future tech behind your industry</h2>
-            <a href="#contact" className="btn btn-outline btn-xl js-scroll-trigger">Get in touch to discuss</a>
+            <a href="#contact" className="btn btn-outline btn-xl js-scroll-trigger">Find out more</a>
           </div>
         </div>
         <div className="overlay"></div>
