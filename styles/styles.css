@@ -441,9 +441,15 @@ section#features .text-muted {
   color: #fff;
 }
 section#visorPay {
-  background: url('/img/ny-bkg.jpg');
-  background-size: 190%;
-  background-position: -360px;
+  background: url('/img/ny-bkg.jpg') no-repeat;
+  background-size: 350%;
+  background-position: -500px;
+}
+@media only screen and (min-width: 992px) {
+  section#visorPay {
+    background-size: 190%;
+    background-position: -360px;
+  }
 }
 
 .diamond {
