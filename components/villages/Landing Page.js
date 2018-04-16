@@ -6,10 +6,10 @@ import Features from './neighborhoods/Features';
 import VisorPay from './neighborhoods/VisorPay';
 import VisorEnterprise from './neighborhoods/VisorEnterprise';
 import Whitepaper from './neighborhoods/Whitepaper';
+import Skymap from './neighborhoods/Skymap';
 import Team from './neighborhoods/Team';
 import Exchanges from './neighborhoods/Exchanges';
 import Social from './neighborhoods/Social';
-import Footer from './neighborhoods/Footer';
 
 class LandingPage extends React.Component {
   render() {
@@ -23,6 +23,7 @@ class LandingPage extends React.Component {
         <Features/>
         <VisorPay/>
         <VisorEnterprise/>
+        <Skymap/>
         <Whitepaper/>
         <Team/>
         <Exchanges/>

@@ -20,7 +20,7 @@ class Features extends React.Component {
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-lock fa-5x text-primary"/>
+                      <i className="fa fa-eye-slash text-primary"/>
                       <h3>Privacy & Security</h3>
                       <p>
                         In order to maximize privacy, we implemented two protocols in the code and our QT wallet:
@@ -31,7 +31,7 @@ class Features extends React.Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-arrows-alt fa-5x text-primary"/>
+                      <i className="fa fa-object-ungroup text-primary"/>
                       <h3>High Scalability & No Fees</h3>
                       <p>
                         Through the use of multi-algorithms, Visor's scalability is very high. However,
@@ -44,7 +44,7 @@ class Features extends React.Component {
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-users fa-5x text-primary"/>
+                      <i className="fa fa-user-o text-primary"/>
                       <h3>Community Driven</h3>
                       <p>
                         Visor is created <b>by</b> the people, <b>for</b> the people, which means that our community is
@@ -55,7 +55,7 @@ class Features extends React.Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-database fa-5x text-primary"/>
+                      <i className="fa fa-diamond text-primary"/>
                       <h3>Delegated Proof-of-Stake (DPoS)</h3>
                       <p>
                         The Visor development team has decided to implement Delegated Proof-of-Stake (DPoS)
