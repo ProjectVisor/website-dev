@@ -16929,7 +16929,7 @@ var Header = function (_React$Component) {
                   _react2.default.createElement(
                     'span',
                     { className: 'align-middle' },
-                    'Learn more about Visor '
+                    'Learn more about Rays '
                   ),
                   _react2.default.createElement('i', { className: 'fa fa-angle-down fa-2x align-middle' })
                 )
@@ -17051,7 +17051,7 @@ var Nav = function (_React$Component) {
           _react2.default.createElement(
             'a',
             { className: 'navbar-brand js-scroll-trigger', href: '#page-top' },
-            'Visor'
+            'Rays'
           ),
           _react2.default.createElement(
             'button',
@@ -17088,7 +17088,7 @@ var Nav = function (_React$Component) {
                 _react2.default.createElement(
                   'a',
                   { className: 'nav-link js-scroll-trigger', href: '#visorEnterprise' },
-                  'Visor Enterprise'
+                  'Rays Enterprise'
                 )
               ),
               _react2.default.createElement(
@@ -19398,9 +19398,9 @@ var LandingPage = function (_React$Component) {
         'div',
         { className: 'landing-page' },
         _react2.default.createElement(_Header2.default, {
-          messages: false, title: "Hello world, meet Visor",
+          messages: false, title: "Hello world, meet Rays",
           subtitle: "The future of Privacy, Security & Free Ultra-Fast Transactions",
-          btnLabel: "Learn more about Visor"
+          btnLabel: "Learn more about Rays"
         }),
         _react2.default.createElement(_Features2.default, null),
         _react2.default.createElement(_VisorPay2.default, null),
@@ -30957,7 +30957,7 @@ var Exchanges = function (_React$Component) {
           _react2.default.createElement(
             'h2',
             null,
-            'Buy Visor (XVR) on the following Exchanges'
+            'Buy Rays (XVR) on the following Exchanges'
           ),
           _react2.default.createElement(
             'ul',
@@ -31059,12 +31059,12 @@ var Features = function (_React$Component) {
             _react2.default.createElement(
               'h2',
               null,
-              'Visor Features'
+              'Rays Features'
             ),
             _react2.default.createElement(
               'p',
               { className: 'text-muted' },
-              'Discover core Visor features and functionality'
+              'Discover core Rays features and functionality'
             ),
             _react2.default.createElement('hr', null)
           ),
@@ -31095,7 +31095,7 @@ var Features = function (_React$Component) {
                       _react2.default.createElement(
                         'p',
                         { className: 'text-muted' },
-                        'In order to maximize privacy, we implemented two protocols in the code and our QT wallet: TOR and I2P so that everyone can enjoy the highest protection and privacy using Visor Coin. In the future, we intend to implement something very special to drastically increase Visor\'s scalability.'
+                        'In order to maximize privacy, we implemented two protocols in the code and our QT wallet: TOR and I2P so that everyone can enjoy the highest protection and privacy using Rays Coin. In the future, we intend to implement something very special to drastically increase Rays\'s scalability.'
                       )
                     )
                   ),
@@ -31114,7 +31114,7 @@ var Features = function (_React$Component) {
                       _react2.default.createElement(
                         'p',
                         { className: 'text-muted' },
-                        'Through the use of multi-algorithms, Visor\'s scalability is very high. However, we will continue to work to constantly improved this aspect. After voting, the Visor team decided that there will be no fees between XVR transactions.'
+                        'Through the use of multi-algorithms, Rays\'s scalability is very high. However, we will continue to work to constantly improved this aspect. After voting, the Rays team decided that there will be no fees between XVR transactions.'
                       )
                     )
                   )
@@ -31137,7 +31137,7 @@ var Features = function (_React$Component) {
                       _react2.default.createElement(
                         'p',
                         { className: 'text-muted' },
-                        'Visor is created ',
+                        'Rays is created ',
                         _react2.default.createElement(
                           'b',
                           null,
@@ -31168,7 +31168,7 @@ var Features = function (_React$Component) {
                       _react2.default.createElement(
                         'p',
                         { className: 'text-muted' },
-                        'The Visor development team has decided to implement Delegated Proof-of-Stake (DPoS) as we believe that this is the most secure mining algorithm. DPoS plays the role of simple stake and masternode in the sense that it requires a certain minimum amount of coins in the wallet. The fact that DPoS makes it possible to stake without an open wallet makes it more flexible for our system, minimizing exposure to attacks.'
+                        'The Rays development team has decided to implement Delegated Proof-of-Stake (DPoS) as we believe that this is the most secure mining algorithm. DPoS plays the role of simple stake and masternode in the sense that it requires a certain minimum amount of coins in the wallet. The fact that DPoS makes it possible to stake without an open wallet makes it more flexible for our system, minimizing exposure to attacks.'
                       )
                     )
                   )
@@ -31341,12 +31341,12 @@ var Team = function (_React$Component) {
             _react2.default.createElement(
               'h2',
               null,
-              'Visor Team'
+              'Rays Team'
             ),
             _react2.default.createElement(
               'p',
               { className: 'text-muted' },
-              'Meet the core Visor team.'
+              'Meet the core Rays team.'
             ),
             _react2.default.createElement('hr', null)
           ),
@@ -31442,7 +31442,7 @@ var Team = function (_React$Component) {
                       _react2.default.createElement(
                         'p',
                         { className: 'text-muted' },
-                        'With 9 years of experience as a UI/UX Engineer and Designer for large companies such as; Emirates, Chelsea FC, Vodafone, Bosch, SEGA and many more - KC has thoroughly harnessed his craft. From Front-End code, to visual communications - KC accepts the responsibilities required as Visor\'s creative director and truly executes them with passion and to the highest possible standard.'
+                        'With 9 years of experience as a UI/UX Engineer and Designer for large companies such as; Emirates, Chelsea FC, Vodafone, Bosch, SEGA and many more - KC has thoroughly harnessed his craft. From Front-End code, to visual communications - KC accepts the responsibilities required as Rays\'s creative director and truly executes them with passion and to the highest possible standard.'
                       )
                     )
                   )
@@ -31681,7 +31681,7 @@ var VisorEnterprise = function (_React$Component) {
             _react2.default.createElement(
               'h2',
               null,
-              'Visor Enterprise',
+              'Rays Enterprise',
               _react2.default.createElement('br', null),
               'the future tech behind your industry'
             ),
@@ -31840,12 +31840,12 @@ var Whitepaper = function (_React$Component) {
               _react2.default.createElement(
                 'h2',
                 { className: 'section-heading' },
-                'Download Visor\'s Whitepaper'
+                'Download Rays\'s Whitepaper'
               ),
               _react2.default.createElement(
                 'p',
                 null,
-                'Download the latest version of the Visor Whitepaper for detailed information.'
+                'Download the latest version of the Rays Whitepaper for detailed information.'
               ),
               _react2.default.createElement(
                 'a',
@@ -32225,7 +32225,7 @@ var Heading = function (_React$Component) {
         _react2.default.createElement(
           'h2',
           { className: 'heading' },
-          'Visor feature mentioned here'
+          'Rays feature mentioned here'
         )
       );
     }

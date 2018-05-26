@@ -10,8 +10,8 @@ class Features extends React.Component {
       <section className="features" id="features">
         <div className="container">
           <div className="section-heading text-center">
-            <h2>Visor Features</h2>
-            <p>Discover core Visor features and functionality</p>
+            <h2>Rays Features</h2>
+            <p>Discover core Rays features and functionality</p>
             <hr/>
           </div>
           <div className="row">
@@ -24,8 +24,8 @@ class Features extends React.Component {
                       <h3>Privacy & Security</h3>
                       <p>
                         In order to maximize privacy, we implemented two protocols in the code and our QT wallet:
-                        TOR and I2P so that everyone can enjoy the highest level of protection and privacy using Visor Coin.
-                        In the future, we intend to implement something very special to drastically increase Visor's scalability.
+                        TOR and I2P so that everyone can enjoy the highest level of protection and privacy using Rays Coin.
+                        In the future, we intend to implement something very special to drastically increase Rays's scalability.
                       </p>
                     </div>
                   </div>
@@ -34,8 +34,8 @@ class Features extends React.Component {
                       <i className="fa fa-object-ungroup text-primary"/>
                       <h3>High Scalability & No Fees</h3>
                       <p>
-                        Through the use of multi-algorithms, Visor's scalability is very high. However,
-                        we will continue to work to constantly improve this aspect. After voting, the Visor team decided
+                        Through the use of multi-algorithms, Rays's scalability is very high. However,
+                        we will continue to work to constantly improve this aspect. After voting, the Rays team decided
                         that there will be no fees between XVR transactions.
                       </p>
                     </div>
@@ -47,7 +47,7 @@ class Features extends React.Component {
                       <i className="fa fa-user-o text-primary"/>
                       <h3>Community Driven</h3>
                       <p>
-                        Visor is created <b>by</b> the people, <b>for</b> the people, which means that our community is
+                        Rays is created <b>by</b> the people, <b>for</b> the people, which means that our community is
                         the biggest part of our team, that's why our development team is always in close relations with
                         our community. Our project has open source code, which can be viewed publicly at any given time.
                       </p>
@@ -58,7 +58,7 @@ class Features extends React.Component {
                       <i className="fa fa-diamond text-primary"/>
                       <h3>Delegated Proof-of-Stake (DPoS)</h3>
                       <p>
-                        The Visor development team has decided to implement Delegated Proof-of-Stake (DPoS)
+                        The Rays development team has decided to implement Delegated Proof-of-Stake (DPoS)
                         as we believe that this is the most secure mining algorithm. DPoS plays the role of simple
                         stake and masternode in the sense that it requires a certain minimum amount of coins in the wallet.
                         The fact that DPoS makes it possible to stake without an open wallet makes it more flexible for

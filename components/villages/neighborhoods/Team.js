@@ -10,8 +10,8 @@ class Team extends React.Component {
       <section className="features" id="team">
         <div className="container">
           <div className="section-heading text-center">
-            <h2>Visor Team</h2>
-            <p className="text-muted">Meet the core Visor team.</p>
+            <h2>Rays Team</h2>
+            <p className="text-muted">Meet the core Rays team.</p>
             <hr/>
           </div>
           <div className="row">
@@ -43,7 +43,7 @@ class Team extends React.Component {
                       <p className="text-muted">
                         With 9 years of experience as a UI/UX Engineer and Designer for large companies such as; Emirates,
                         Chelsea FC, Vodafone, Bosch, SEGA and many more - KC has thoroughly harnessed his craft. From
-                        Front-End code, to visual communications - KC accepts the responsibilities required as Visor's
+                        Front-End code, to visual communications - KC accepts the responsibilities required as Rays's
                         creative director and truly executes them with passion and to the highest possible standard.
                       </p>
                     </div>
