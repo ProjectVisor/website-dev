@@ -340,7 +340,7 @@ hr {
   background-color: transparent;
 }
 #mainNav:not(.navbar-shrink) .navbar-brand {
-  background: url(/img/visor-logo-wt.svg) no-repeat 100%;
+  background: url(/img/rays_network_logo.png) no-repeat 100%;
 }
 #mainNav:not(.navbar-shrink) .navbar-toggler,
 #mainNav:not(.navbar-shrink) .navbar-nav>li>a,
