@@ -10,8 +10,8 @@ class Team extends React.Component {
       <section className="features" id="team">
         <div className="container">
           <div className="section-heading text-center">
-            <h2>Rays Team</h2>
-            <p className="text-muted">Meet the core Rays team.</p>
+            <h2>RAYS Team</h2>
+            <p className="text-muted">Meet the core RAYS team.</p>
             <hr/>
           </div>
           <div className="row">

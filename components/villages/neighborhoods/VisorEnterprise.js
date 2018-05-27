@@ -9,7 +9,7 @@ class VisorEnterprise extends React.Component {
       <section className="cta" id="visorEnterprise">
         <div className="cta-content">
           <div className="container">
-            <h2>Rays Enterprise<br/>the future tech behind your industry</h2>
+            <h2>RAYS Enterprise<br/>the future tech behind your industry</h2>
             <a href="#contact" className="btn btn-outline btn-xl js-scroll-trigger">Find out more</a>
           </div>
         </div>

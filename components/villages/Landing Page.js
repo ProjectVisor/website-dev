@@ -17,9 +17,9 @@ class LandingPage extends React.Component {
     return (
       <div className="landing-page">
         <Header
-          messages={false} title={"Hello world, meet Rays"}
+          messages={false} title={"Hello world, meet RAYS"}
           subtitle={"The future of Privacy, Security & Ultra-Fast Transactions"}
-          btnLabel={"Learn more about Rays"}
+          btnLabel={"Learn more about RAYS"}
         />
         <Features/>
         <VisorPay/>

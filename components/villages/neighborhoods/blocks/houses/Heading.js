@@ -5,7 +5,7 @@ class Heading extends React.Component {
   render() {
     return (
       <div>
-        <h2 className="heading">Rays feature mentioned here</h2>
+        <h2 className="heading">RAYS feature mentioned here</h2>
       </div>
     )
   }

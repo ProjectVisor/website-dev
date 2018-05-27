@@ -11,7 +11,7 @@ class Features extends React.Component {
         <div className="container">
           <div className="section-heading text-center">
             <h2>About RAYS</h2>
-            <p>Discover core Rays features and functionality</p>
+            <p>Discover core RAYS features and functionality</p>
             <hr/>
           </div>
           <div className="row">

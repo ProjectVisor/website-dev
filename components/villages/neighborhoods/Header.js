@@ -16,7 +16,7 @@ class Header extends React.Component {
               <div className="header-content mx-auto">
                 <h1 className="mb-5">The Future of Privacy, Security and Ultra-Fast Transactions</h1>
                 <a href="#features" className="btn btn-outline btn-xl js-scroll-trigger pulse">
-                  <span className="align-middle">Learn more about Rays </span>
+                  <span className="align-middle">Learn more about RAYS </span>
                   <i className="fa fa-angle-down fa-2x align-middle" />
                 </a>
               </div>

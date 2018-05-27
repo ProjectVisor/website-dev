@@ -11,8 +11,8 @@ class Whitepaper extends React.Component {
         <div className="container">
           <div className="row">
             <div className="col-md-8 mx-auto">
-              <h2 className="section-heading">Download The Rays Whitepaper</h2>
-              <p>Download the latest version of the Rays Whitepaper for detailed information.</p>
+              <h2 className="section-heading">Download The RAYS Whitepaper</h2>
+              <p>Download the latest version of the RAYS Whitepaper for detailed information.</p>
               <a href="" className="btn btn-outline btn-xl js-scroll-trigger">
                 <span className="align-middle">Download Whitepaper </span>
                 <i className="fa fa-download fa-2x align-middle" />

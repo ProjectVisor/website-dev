@@ -31540,12 +31540,12 @@ var Team = function (_React$Component) {
             _react2.default.createElement(
               'h2',
               null,
-              'Rays Team'
+              'RAYS Team'
             ),
             _react2.default.createElement(
               'p',
               { className: 'text-muted' },
-              'Meet the core Rays team.'
+              'Meet the core RAYS team.'
             ),
             _react2.default.createElement('hr', null)
           ),
@@ -32445,7 +32445,7 @@ var VisorEnterprise = function (_React$Component) {
             _react2.default.createElement(
               'h2',
               null,
-              'Rays Enterprise',
+              'RAYS Enterprise',
               _react2.default.createElement('br', null),
               'the future tech behind your industry'
             ),
@@ -32607,12 +32607,12 @@ var Whitepaper = function (_React$Component) {
               _react2.default.createElement(
                 'h2',
                 { className: 'section-heading' },
-                'Download The Rays Whitepaper'
+                'Download The RAYS Whitepaper'
               ),
               _react2.default.createElement(
                 'p',
                 null,
-                'Download the latest version of the Rays Whitepaper for detailed information.'
+                'Download the latest version of the RAYS Whitepaper for detailed information.'
               ),
               _react2.default.createElement(
                 'a',
@@ -32992,7 +32992,7 @@ var Heading = function (_React$Component) {
         _react2.default.createElement(
           'h2',
           { className: 'heading' },
-          'Rays feature mentioned here'
+          'RAYS feature mentioned here'
         )
       );
     }
