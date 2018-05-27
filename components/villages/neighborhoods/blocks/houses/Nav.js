@@ -14,25 +14,25 @@ class Nav extends React.Component {
           <div className="collapse navbar-collapse" id="navbarResponsive">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#features">Features</a>
+                <a className="nav-link js-scroll-trigger" href="#features">About Rays</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#visorPay">VisorPay</a>
+                <a className="nav-link js-scroll-trigger" href="#buyRays">Buy Rays</a>
+              </li>
+
+              <li className="nav-item">
+                <a className="nav-link js-scroll-trigger" href="#whitepaper">Team</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#visorEnterprise">Rays Enterprise</a>
+                <a className="nav-link js-scroll-trigger" href="#wallet">3S Wallet</a>
               </li>
+
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#whitepaper">Whitepaper</a>
+                <a className="nav-link js-scroll-trigger" href="#visorEnterprise">Referral</a>
               </li>
+
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#team">Team</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#exchanges">Exchanges</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#social">Social</a>
+                <a className="nav-link js-scroll-trigger" href="#social">Sign Up/Login</a>
               </li>
             </ul>
           </div>

@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Header from './neighborhoods/Header.js';
-import Features from './neighborhoods/Features';
-import VisorPay from './neighborhoods/VisorPay';
+import Features from './neighborhoods/About';
+import VisorPay from './neighborhoods/BuyRays';
 import VisorEnterprise from './neighborhoods/VisorEnterprise';
 import Whitepaper from './neighborhoods/Whitepaper';
 import Skymap from './neighborhoods/Skymap';
 import Team from './neighborhoods/Team';
 import Exchanges from './neighborhoods/Exchanges';
-import Social from './neighborhoods/Social';
+import Social from './neighborhoods/Wallet';
 
 class LandingPage extends React.Component {
   render() {

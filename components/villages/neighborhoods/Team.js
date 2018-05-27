@@ -23,28 +23,22 @@ class Team extends React.Component {
                       <i className="fa fa-user-circle fa-4x text-primary"/>
                       <h3><b>Tomek</b>,<br/>Co-Founder,<br/>Chief Executive Officer</h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>AIFred</b>,<br/>Co-Founder,<br/>Chief Technical Officer</h3>
+                      <h3><b> Umar Shafiq    </b>,<br/>Co-Founder,<br/>Chief Strategy Officer   </h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>KC</b>,<br/>Co-Founder,<br/>Chief Creative Officer</h3>
+                      <h3><b>Michal Mikolajczyk</b>,<br/>Co-Founder,<br/>Chief Compliance Officer</h3>
                       <p className="text-muted">
-                        With 9 years of experience as a UI/UX Engineer and Designer for large companies such as; Emirates,
-                        Chelsea FC, Vodafone, Bosch, SEGA and many more - KC has thoroughly harnessed his craft. From
-                        Front-End code, to visual communications - KC accepts the responsibilities required as Rays's
-                        creative director and truly executes them with passion and to the highest possible standard.
                       </p>
                     </div>
                   </div>
@@ -53,27 +47,24 @@ class Team extends React.Component {
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>Umar Gill</b>,<br/>Chief Marketing Officer</h3>
+                      <h3><b>Ismail Malik   </b>,<br/>Advisor</h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>RommelPL</b>,<br/>Project Adviser,<br/>Legal Expert</h3>
+                      <h3><b>Daniel Steeves     </b>,<br/>Advisor</h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>Don Phillips</b>,<br/>Project Adviser</h3>
+                      <h3><b>Dr. Badri Narayanan Gopalakrishnan</b>,<br/>Adviser</h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
@@ -82,27 +73,259 @@ class Team extends React.Component {
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>Monty</b>,<br/>Blockchain Developer</h3>
+                      <h3><b>Dr. Fahad Guraya </b>,<br/>Advisor</h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>Hassan</b>,<br/>Developer</h3>
+                      <h3><b>Philip Amara</b>,<br/>Advisor</h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="feature-item">
                       <i className="fa fa-user-circle fa-4x text-primary"/>
-                      <h3><b>Nadeem</b>,<br/>Developer</h3>
+                      <h3><b>Keiran Hussey</b>,<br/>Business Partner,<br />Specialist Blockchain HR Manager </h3>
                       <p className="text-muted">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum ut libero sed pretium.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Daniel Farr    </b>,<br/>Business Partner<br />Principal Blockchain Consultant </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Pankhuri Bhansal   </b>,<br/>Business Partner<br /> Marketing Manager (Bitcoin Gold / Huboi Token)</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Muhammad Shakil </b>,<br/>Business Partner<br />CEO - BandZ Network</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Bilal Dastagir     </b>,<br/>Specialist Cryptographer   </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Shahid Karimi</b>,<br/>Developer</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Nadeem</b>,<br/>Web Developer and Server Manager</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Emily Su        </b>,<br/>Strategy Office</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Simon Emil Bierling</b>,<br/>Marketing Specialist</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div> <div className="col-lg-4">
+                  <div className="feature-item">
+                    <i className="fa fa-user-circle fa-4x text-primary"/>
+                    <h3><b>David Bochno </b>,<br/>Social Media Expert</h3>
+                    <p className="text-muted">
+                    </p>
+                  </div>
+                </div>
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Taron Badalian  </b>,<br/>UI/UX Designer</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Tatiana Liulka</b>,<br/>Graphic Designer</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Guillaume Droesch   </b>,<br/>Head of Sales at Coinounce UK </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Ross Belhomme  </b>,<br/>Senior Associate at J. P. Morgan</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Sadia Bruce </b>,<br/>Business Development Officer </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Ashonzay Matlock</b>,<br/>Blockchain Trainer</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Rodrigo Duarte Freitas      </b>,<br/>Blockchain Marketing Specialist</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Darryl Lo      </b>,<br/> Founder of Alpha Blockchain Solutions</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Riasad Hadi Hossain</b>,<br/>Social Media and ICO Expert </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Aqib Malik</b>,<br/>UAE Business Manager</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Rangana Punchyihewa </b>,<br/>Community Management Expert</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Luciano DeAngelo  </b>,<br/>Project Manager at ARCADIA</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Ahmad Dewanto Choirul Huda  </b>,<br/>ICO Campaign Specialist   </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Elisha Owusu Akyaw</b>,<br/>Marketing Specialist</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Michael Gehlert</b>,<br/>Blockchain and Legal Advisor    </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Tian Hua Chen</b>,<br/> Programming Specialist</h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b>Guiller Jay Felix  </b>,<br/> Bounty Management Specialist </h3>
+                      <p className="text-muted">
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-4">
+                    <div className="feature-item">
+                      <i className="fa fa-user-circle fa-4x text-primary"/>
+                      <h3><b> Roland Alexander</b>,<br/>Crypto Consultant</h3>
+                      <p className="text-muted">
                       </p>
                     </div>
                   </div>
