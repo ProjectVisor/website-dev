@@ -18,7 +18,7 @@ class LandingPage extends React.Component {
       <div className="landing-page">
         <Header
           messages={false} title={"Hello world, meet Rays"}
-          subtitle={"The future of Privacy, Security & Free Ultra-Fast Transactions"}
+          subtitle={"The future of Privacy, Security & Ultra-Fast Transactions"}
           btnLabel={"Learn more about Rays"}
         />
         <Features/>
