@@ -9,7 +9,8 @@ import Whitepaper from './neighborhoods/Whitepaper';
 import Skymap from './neighborhoods/Skymap';
 import Team from './neighborhoods/Team';
 import Exchanges from './neighborhoods/Exchanges';
-import Social from './neighborhoods/Wallet';
+import Wallet from './neighborhoods/Wallet';
+import Social from './neighborhoods/Social';
 
 class LandingPage extends React.Component {
   render() {
@@ -27,7 +28,8 @@ class LandingPage extends React.Component {
         <Whitepaper/>
         <Team/>
         <Exchanges/>
-        <Social/>
+        <Wallet/>
+        <Social />
       </div>
     )
   }
