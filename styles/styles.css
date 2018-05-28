@@ -434,10 +434,9 @@ section#features .feature-item h3 {
   color: #32d3cd;
 }
 section.features .feature-item i {
-  background: #fe3684;
+  background: #0ea2f9;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-shadow: 0px 0px 16px #fe3684;
   font-size: 60px;
   margin-bottom: 20px;
 }
@@ -493,3 +492,22 @@ section#visorPay {
   margin-top: 50px;
 }
 
+.team-list-img{
+  max-width: 100px;
+  border-radius: 50%;
+}
+.linked-in-ico{
+  font-size: 41px !important;
+  color: #0ea2f9 !important;
+}
+.team-item-row h3{
+  line-height: 34px;
+  margin-top: 9px;
+}
+.al-sab-heading{
+  text-align: center;
+}
+.al-sab-heading h3{
+  font-weight: bold;
+  margin-top: 10px;
+}
