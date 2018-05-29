@@ -23,12 +23,12 @@ class LandingPage extends React.Component {
           btnLabel={"Learn more about RAYS"}
         />
         <Features/>
-          <RoadMap/>
         <VisorPay/>
         <VisorEnterprise/>
         <Skymap/>
         <Whitepaper/>
         <Team/>
+          <RoadMap/>
         <Exchanges/>
         <Wallet/>
         <Social />
