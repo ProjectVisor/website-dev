@@ -23,17 +23,17 @@ class Features extends React.Component {
                           <div className="feature-item">
                             <i className="fa fa-calendar text-primary"/>
                             <h3>Q1 2018</h3>
-                            <p>
-                              RAYS idea created
-                              Initial Team Formulation
-                              Creation of Roadmap
-                              Official social medias & official email
-                              Github for RAYS Project developers
-                              Research and Study of Existing Blockchain Protocols and Algorithms
-                              Understanding the needs of customers
-                              Team Discussion and Decisions for Solutions to ensure the requirements of Community
-                              Pre-Whitepaper Preparation
-                            </p>
+                            <ul>
+                              <li>RAYS idea created</li>
+                              <li>Initial Team Formulation</li>
+                                <li>Creation of Roadmap</li>
+                                  <li>Official social medias & official email</li>
+                                    <li>Github for RAYS Project developers</li>
+                                      <li>Research and Study of Existing Blockchain Protocols and Algorithms</li>
+                                        <li>Understanding the needs of customers</li>
+                              <li>Team Discussion and Decisions for Solutions to ensure the requirements of Community</li>
+                                            <li>Pre-Whitepaper Preparation</li>
+                            </ul>
                           </div>
                         </div>
                       </div>
@@ -43,27 +43,27 @@ class Features extends React.Component {
                           <div className="feature-item">
                             <i className="fa fa-calendar text-primary"/>
                             <h3>Q2 2018</h3>
-                            <p>
-                              Website Launch
-                              RAYS Enterprise Registration
-                              RAYS  Roadmap
-                              Pre-launch marketing strategy and materials
-                              Research regulations and compliance procedures
-                              RAYS Enterprise and Digital ID Core Preparation
-                              RAYS 3S Wallet Discussion
-                              Find current projects that will provide valuable functionality  to RAYS Enterprise
-                              Pre-whitepaper release
-                              Preparation for AI Master Nodes Dev & Quantum Proof
-                              Preparation of Digital ID Implementation
-                              Understanding Industries and Integration
-                              Marketing campaigns launched to increase awareness of RAYS Project
-                              Preparation for Private and Pre Sale
-                              Team Extension
-                              Minimum Viable Product (MVP)
-                              ERC20 Smart Contract for  Token Sale
-                              Smart Contract Audit
+                            <ul>
+                              <li>Website Launch</li>
+                              <li>RAYS Enterprise Registration</li>
+                              <li>RAYS  Roadmap</li>
+                              <li>Pre-launch marketing strategy and materials</li>
+                              <li>Research regulations and compliance procedures</li>
+                              <li>RAYS Enterprise and Digital ID Core Preparation</li>
+                              <li>RAYS 3S Wallet Discussion</li>
+                              <li>Find current projects that will provide valuable functionality  to RAYS Enterprise</li>
+                              <li>Pre-whitepaper release</li>
+                              <li>Preparation for AI Master Nodes Dev & Quantum Proof</li>
+                              <li>Preparation of Digital ID Implementation</li>
+                              <li>Understanding Industries and Integration</li>
+                              <li>Marketing campaigns launched to increase awareness of RAYS Project</li>
+                              <li>Preparation for Private and Pre Sale</li>
+                              <li>Team Extension</li>
+                              <li>Minimum Viable Product (MVP)</li>
+                              <li>ERC20 Smart Contract for  Token Sale</li>
+                              <li>Smart Contract Audit</li>
 
-                            </p>
+                            </ul>
                           </div>
                         </div>
                       </div>
@@ -73,21 +73,21 @@ class Features extends React.Component {
                           <div className="feature-item">
                             <i className="fa fa-calendar text-primary"/>
                             <h3>Q3 2018</h3>
-                            <p>
-                              Private and Pre Sale
-                              First whitepaper 1.0 release
-                              Preparation for Exchange Listings
-                              Preparation for RAYS Cloud Wallet
-                              FBN  blockchain development with TOR/I2P integration network
-                              Release of Cloud wallet
-                              RAYS Partnerships
-                              Academic Collaborations and Establishment of RAYS Research Laboratory
-                              Preparation of Windows and Linux wallets
-                              RAYS Enterprise Relocation
-                              Prepare for RAYS Exchange
-                              Team Expansion
+                            <ul>
+                              <li>Private and Pre Sale</li>
+                                <li>First whitepaper 1.0 release</li>
+                                  <li>Preparation for Exchange Listings</li>
+                                    <li>Preparation for RAYS Cloud Wallet</li>
+                                      <li>FBN  blockchain development with TOR/I2P integration network</li>
+                                        <li>Release of Cloud wallet</li>
+                                          <li>RAYS Partnerships</li>
+                                            <li>Academic Collaborations and Establishment of RAYS Research Laboratory</li>
+                                              <li>Preparation of Windows and Linux wallets</li>
+                                                <li>RAYS Enterprise Relocation</li>
+                                                  <li>Prepare for RAYS Exchange</li>
+                                                    <li>Team Expansion</li>
 
-                            </p>
+                            </ul>
                           </div>
                         </div>
                       </div>
@@ -97,19 +97,19 @@ class Features extends React.Component {
                           <div className="feature-item">
                             <i className="fa fa-calendar text-primary"/>
                             <h3>Q4 2018</h3>
-                            <p>
-                              First Partnership Announcement
-                              Release Windows and Linux Wallets
-                              Listing on at least one top rated exchange other than IDEX
-                              Listing on https://coinmarketcap.com
-                              Preparation for RAYS  Smart Contracts
-                              Release RAYS Exchange
-                              Whitepaper Update 1.1
-                              Release New Roadmap for 2019
-                              Preparation for RAYS Mobile App
+                            <ul>
+                              <li>First Partnership Announcement</li>
+                                <li>Release Windows and Linux Wallets</li>
+                                  <li>Listing on at least one top rated exchange other than IDEX</li>
+                                    <li>Listing on https://coinmarketcap.com</li>
+                                      <li>Preparation for RAYS  Smart Contracts</li>
+                                        <li>Release RAYS Exchange</li>
+                                          <li>Whitepaper Update 1.1</li>
+                                            <li>Release New Roadmap for 2019</li>
+                                              <li>Preparation for RAYS Mobile App</li>
 
 
-                            </p>
+                            </ul>
                           </div>
                         </div>
                       </div>
@@ -119,19 +119,19 @@ class Features extends React.Component {
                           <div className="feature-item">
                             <i className="fa fa-calendar text-primary"/>
                             <h3>2019</h3>
-                            <p>
-                              AI Master nodes
-                              Quantum Proof
-                              More Exchanges
-                              New Partnerships
-                              RAYS Flexible Blockchain Network (FBN) Performance and Security Audits
-                              RAYS 3S Wallet
-                              RAYS Mainnet Deployment
-                              And a lot more to come
+                            <ul>
+                              <li>AI Master nodes</li>
+                                <li>Quantum Proof</li>
+                                  <li>More Exchanges</li>
+                                    <li>New Partnerships</li>
+                                      <li>RAYS Flexible Blockchain Network (FBN) Performance and Security Audits</li>
+                                        <li>RAYS 3S Wallet</li>
+                                          <li>RAYS Mainnet Deployment</li>
+                                            <li>And a lot more to come</li>
 
 
 
-                            </p>
+                            </ul>
                           </div>
                         </div>
                       </div>
