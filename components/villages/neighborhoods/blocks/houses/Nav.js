@@ -16,6 +16,11 @@ class Nav extends React.Component {
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#features">About RAYS</a>
               </li>
+
+              <li className="nav-item">
+                <a className="nav-link js-scroll-trigger" href="#road-map">Road Map</a>
+              </li>
+
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#buyRays">Buy RAYS</a>
               </li>

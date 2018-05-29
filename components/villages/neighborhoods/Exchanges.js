@@ -8,7 +8,7 @@ class Exchanges extends React.Component {
     return (
       <section className="contact bg-primary" id="exchanges">
         <div className="container">
-          <h2>Buy RAYS (XVR) on the following Exchanges</h2>
+          <h2>Exchange Information will be Shared after Token Sale</h2>
           <ul className="list-inline list-social">
             <li className="list-inline-item social-twitter">
               <a href="#">

@@ -11,6 +11,7 @@ import Team from './neighborhoods/Team';
 import Exchanges from './neighborhoods/Exchanges';
 import Wallet from './neighborhoods/Wallet';
 import Social from './neighborhoods/Social';
+import RoadMap from './neighborhoods/RoadMap';
 
 class LandingPage extends React.Component {
   render() {
@@ -22,6 +23,7 @@ class LandingPage extends React.Component {
           btnLabel={"Learn more about RAYS"}
         />
         <Features/>
+          <RoadMap/>
         <VisorPay/>
         <VisorEnterprise/>
         <Skymap/>
