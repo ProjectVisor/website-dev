@@ -21,7 +21,7 @@ class Features extends React.Component {
                       <div className="row">
                         <div className="col-lg-12">
                           <div className="feature-item">
-                            <i className="fa fa-eye-slash text-primary"/>
+                            <i className="fa fa-calendar text-primary"/>
                             <h3>Q1 2018</h3>
                             <p>
                               RAYS idea created
@@ -41,7 +41,7 @@ class Features extends React.Component {
                       <div className="row">
                         <div className="col-lg-12">
                           <div className="feature-item">
-                            <i className="fa fa-eye-slash text-primary"/>
+                            <i className="fa fa-calendar text-primary"/>
                             <h3>Q2 2018</h3>
                             <p>
                               Website Launch
@@ -71,7 +71,7 @@ class Features extends React.Component {
                       <div className="row">
                         <div className="col-lg-12">
                           <div className="feature-item">
-                            <i className="fa fa-eye-slash text-primary"/>
+                            <i className="fa fa-calendar text-primary"/>
                             <h3>Q3 2018</h3>
                             <p>
                               Private and Pre Sale
@@ -95,7 +95,7 @@ class Features extends React.Component {
                       <div className="row">
                         <div className="col-lg-12">
                           <div className="feature-item">
-                            <i className="fa fa-eye-slash text-primary"/>
+                            <i className="fa fa-calendar text-primary"/>
                             <h3>Q4 2018</h3>
                             <p>
                               First Partnership Announcement
@@ -117,7 +117,7 @@ class Features extends React.Component {
                       <div className="row">
                         <div className="col-lg-12">
                           <div className="feature-item">
-                            <i className="fa fa-eye-slash text-primary"/>
+                            <i className="fa fa-calendar text-primary"/>
                             <h3>2019</h3>
                             <p>
                               AI Master nodes
