@@ -10,19 +10,19 @@ class Exchanges extends React.Component {
         <div className="container">
           <h2>Exchange Information will be Shared after Token Sale</h2>
           <ul className="list-inline list-social">
-            <li className="list-inline-item social-twitter">
+            <li className="list-inline-item ">
               <a href="#">
-                <i className="fa fa-twitter"/>
+                <img src="/img/bitcoin.svg" />
               </a>
             </li>
-            <li className="list-inline-item social-facebook">
+            <li className="list-inline-item ">
               <a href="#">
-                <i className="fa fa-facebook"/>
+                <img src="/img/ethereum.svg" />
               </a>
             </li>
-            <li className="list-inline-item social-google-plus">
+            <li className="list-inline-item ">
               <a href="#">
-                <i className="fa fa-google-plus"/>
+                <img src="/img/dash.svg" />
               </a>
             </li>
           </ul>
