@@ -136,6 +136,13 @@ class Features extends React.Component {
                         </div>
                       </div>
 
+                      <div className="row coins-distrib">
+                        <div className="col-lg-12">
+                          <br /><br />
+<h3 className="tlx00">Coins distribution</h3>
+                          <img src="/img/coins-distribution.svg" />
+                        </div>
+                      </div>
 
                     </div>
                   </div>

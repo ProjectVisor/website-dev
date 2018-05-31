@@ -554,3 +554,12 @@ section#road-map .text-muted {
 #road-map .feature-item{
   max-width: 585px !important;
 }
+.tlx00{
+  text-align: center;
+}
+.coins-distrib{
+  text-align: center;
+}
+.coins-distrib img{
+  max-width: 100%;
+}
