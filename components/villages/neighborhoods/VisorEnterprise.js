@@ -6,7 +6,7 @@ import CallToAction from './blocks/Call To Action.js';
 class VisorEnterprise extends React.Component {
   render() {
     return (
-      <section className="cta" id="visorEnterprise">
+      <section className="cta rays_lab_section" id="visorEnterprise">
         <div className="cta-content">
           <div className="container">
             <h2>RAYS Research Laboratory (Our Partnerships with Universities Worldwide)</h2>

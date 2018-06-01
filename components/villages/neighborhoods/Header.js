@@ -12,16 +12,17 @@ class Header extends React.Component {
         <Nav/>
         <div className="container h-100">
           <div className="row h-100">
-            <div className="col-lg-4">
+            <div className="col-lg-5">
               <div className="header-content mx-auto">
-                <h1 className="mb-5">The Future of Privacy, Security and Ultra-Fast Transactions</h1>
-                <a href="#features" className="btn btn-outline btn-xl js-scroll-trigger pulse">
-                  <span className="align-middle">Learn more about RAYS </span>
+                <h1 className="mb-5">Welcome to RAYS Network, A New Cryptocurrency and a Blockchain -  “Earn Free RAYS of Worth 100$ Now”.
+                </h1>
+                <a href="#visorEnterprise" className="btn btn-outline btn-xl js-scroll-trigger pulse">
+                  <span className="align-middle">Join Referral Program</span>
                   <i className="fa fa-angle-down fa-2x align-middle" />
                 </a>
               </div>
             </div>
-            <div className="col-lg-8 my-auto">
+            <div className="col-lg-7 my-auto">
               <img src="img/visor-isometric.svg" className="levitate" alt="" />
             </div>
           </div>

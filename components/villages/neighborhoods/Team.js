@@ -96,18 +96,6 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/default.jpg" />
-                </LazyLoad>
-                <h3><b>Rohit Kohli</b><br/>Blockchain Specialist</h3>
-                <a href="https://www.linkedin.com/in/rohitkohli73/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/fahad.PNG" />
                 </LazyLoad>
                 <h3><b>Dr. Fahad Guraya</b><br/>Ph.D - CEO at opolo.io</h3>
@@ -254,18 +242,6 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/toron.PNG" />
-                </LazyLoad>
-                <h3><b>Taron Badalian</b><br/>UI/UX Designer</h3>
-                <a href="https://www.linkedin.com/in/taronbadalian/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/tatiana.PNG" />
                 </LazyLoad>
                 <h3><b>Tetiana Liulka</b><br/>Graphic Designer</h3>
@@ -359,7 +335,7 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/riasat.PNG" />
                 </LazyLoad>
-                <h3><b>Riasad Hadi Hossain</b><br/>Social Media Expert</h3>
+                <h3><b>Riasad Hadi Hossain</b><br/>Social Media & ICO Expert</h3>
                 <a href="https://www.linkedin.com/in/riasad-hadi-hossain-47b41a15a/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>

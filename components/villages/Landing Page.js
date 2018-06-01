@@ -19,7 +19,7 @@ class LandingPage extends React.Component {
       <div className="landing-page">
         <Header
           messages={false} title={"Hello world, meet RAYS"}
-          subtitle={"The future of Privacy, Security & Ultra-Fast Transactions"}
+          subtitle={"Welcome to RAYS Network, A New Cryptocurrency and a Blockchain -  \"Earn Free RAYS of Worth 100$ Now\"."}
           btnLabel={"Learn more about RAYS"}
         />
         <Features/>

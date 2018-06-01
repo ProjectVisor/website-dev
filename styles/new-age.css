@@ -398,9 +398,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: #5d5c5b;
+  background: -webkit-linear-gradient(#5d5c5b, #070605);
+  background: linear-gradient(#5d5c5b, #151413);
 }
 
 .text-primary {
@@ -434,4 +434,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+.rays_lab_section{
+  background-image: url(../img/rays_lab.jpg) !important;
 }
