@@ -174,7 +174,7 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/talha.PNG" />
+                  <img className="team-list-img" src="/img/team/talha.png" />
                 </LazyLoad>
                 <h3><b>Taha Dhailey</b><br/>DApp Developer and Blockchain Trainer</h3>
                 <a href="https://www.linkedin.com/in/taha-dhailey-0a813b83/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
@@ -186,7 +186,7 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/jason.PNG" />
+                  <img className="team-list-img" src="/img/team/jason.png" />
                 </LazyLoad>
                 <h3><b>Jason Coles</b><br/>Community Director at Nauticus</h3>
                 <a href="https://www.linkedin.com/in/jason-coles-45043b76/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
@@ -198,7 +198,7 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/anas.PNG" />
+                  <img className="team-list-img" src="/img/team/anas.png" />
                 </LazyLoad>
                 <h3><b>Anas Alvi</b><br/>CTO at AppZilla.in</h3>
                 <a href="https://www.linkedin.com/in/anas-alvi-9b7453a4/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
