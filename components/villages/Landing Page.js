@@ -12,29 +12,31 @@ import Exchanges from './neighborhoods/Exchanges';
 import Wallet from './neighborhoods/Wallet';
 import Social from './neighborhoods/Social';
 import RoadMap from './neighborhoods/RoadMap';
+import Footer from './neighborhoods/Footer';
 
 class LandingPage extends React.Component {
-  render() {
-    return (
-      <div className="landing-page">
-        <Header
-          messages={false} title={"Hello world, meet RAYS"}
-          subtitle={"Welcome to RAYS Network, A New Cryptocurrency and a Blockchain -  \"Earn Free RAYS of Worth 100$ Now\"."}
-          btnLabel={"Learn more about RAYS"}
-        />
-        <Features/>
-        <VisorPay/>
-        <VisorEnterprise/>
-        <Skymap/>
-        <Whitepaper/>
-        <Team/>
-          <RoadMap/>
-        <Exchanges/>
-        <Wallet/>
-        <Social />
-      </div>
-    )
-  }
+    render() {
+        return (
+            <div className="landing-page">
+                <Header
+                    messages={false} title={"Hello world, meet RAYS"}
+                    subtitle={"Welcome to RAYS Network, A New Cryptocurrency and a Blockchain -  \"Earn Free RAYS of Worth 100$ Now\"."}
+                    btnLabel={"Learn more about RAYS"}
+                />
+                <Features/>
+                <VisorPay/>
+                <VisorEnterprise/>
+                <Skymap/>
+                <Whitepaper/>
+                <Team/>
+                <RoadMap/>
+                <Exchanges/>
+                <Wallet/>
+                <Social />
+                <Footer />
+            </div>
+        )
+    }
 }
 
 module.exports = LandingPage;

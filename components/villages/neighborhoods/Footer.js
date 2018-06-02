@@ -7,11 +7,9 @@ class Footer extends React.Component {
   render() {
     return (
       <section className="footer">
-        <Container>
-          <Row>
-            <span />
-          </Row>
-        </Container>
+          <div className="container footer-div">
+              All Copyrights Reserved  - RAYS Network Ltd (UK)
+          </div>
       </section>
     )
   }

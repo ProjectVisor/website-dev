@@ -9,6 +9,7 @@ class Skymap extends React.Component {
     return (
       <section className="skymap bg-primary text-center" id="skymap">
         <div className="container">
+          <h1>RAYS Partnerships</h1>
           <div id="demo" class="carousel slide" data-ride="carousel">
             <ul class="carousel-indicators">
               <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -23,6 +24,11 @@ class Skymap extends React.Component {
               </div>
               <div class="carousel-item">
                 <img src="/img/partner-appzilla.jpg" alt="Appzilla" height="100" />
+                  <div class="carousel-caption">
+                  </div>
+              </div>
+              <div class="carousel-item">
+                <img src="/img/cryptofusion.png" alt="CryptoFusion" height="100" />
                   <div class="carousel-caption">
                   </div>
               </div>

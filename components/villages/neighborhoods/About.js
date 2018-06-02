@@ -20,7 +20,7 @@ class Features extends React.Component {
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-eye-slash text-primary"/>
+                      <i className="fa fa-cubes text-primary"/>
                       <h3>A Blockchain</h3>
                       <p>
                         RAYS Network is based on a whole new blockchain technology which is growing and improving all the time. For a few years now, blockchain technology has been increasingly adopted, but there are still many problems that hold this technology back from going mainstream. RAYS Network is looking to solve many of these problems.
@@ -29,7 +29,7 @@ class Features extends React.Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-object-ungroup text-primary"/>
+                      <i className="fa fa-bitcoin text-primary"/>
                       <h3>A Cryptocurrency</h3>
                       <p>
                         RAYS Network is a cryptocurrency that aims to revolutionize your experience within the cryptocurrency world. We have identified common cryptocurrency issues ranging from usability to how decentralized systems operate. We are adopting known features in the cryptocurrency world such as Delegated Proof-of-Stake (DPoS) and multi-algorithm protocol but we have modified features to accommodate our community’s needs.
@@ -40,7 +40,7 @@ class Features extends React.Component {
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="feature-item">
-                      <i className="fa fa-user-o text-primary"/>
+                      <i className="fa fa-eye-slash text-primary"/>
                       <h3>Privacy and Security</h3>
                       <p>
                         We will achieve real privacy and security by choosing the right algorithm (in this case the multi-algorithm protocol). By refining it in our unique way, we will be able to achieve really high network scalability and keep the highest standards of safety at the same time. The implementation of one of the two additional protocols such as TOR or I2P will allow our users to enjoy total privacy. Thanks to these two protocols, none of the transactions can be traced in any way

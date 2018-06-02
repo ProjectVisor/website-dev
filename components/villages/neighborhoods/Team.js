@@ -80,7 +80,6 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
-
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
@@ -112,6 +111,18 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3><b>Philip Amara</b><br/>Blockchain Strategist</h3>
                 <a href="https://www.linkedin.com/in/danielsteeves/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/shakil.PNG" />
+                </LazyLoad>
+                <h3><b>Muhammad Shakeel</b><br/>CEO - BandZ Network</h3>
+                <a href="https://www.linkedin.com/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -163,10 +174,34 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/shakil.PNG" />
+                  <img className="team-list-img" src="/img/team/talha.PNG" />
                 </LazyLoad>
-                <h3><b>Muhammad Shakeel</b><br/>CEO - Brandz Network</h3>
-                <a href="https://www.linkedin.com/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <h3><b>Taha Dhailey</b><br/>DApp Developer and Blockchain Trainer</h3>
+                <a href="https://www.linkedin.com/in/taha-dhailey-0a813b83/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/jason.PNG" />
+                </LazyLoad>
+                <h3><b>Jason Coles</b><br/>Community Director at Nauticus</h3>
+                <a href="https://www.linkedin.com/in/jason-coles-45043b76/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/anas.PNG" />
+                </LazyLoad>
+                <h3><b>Anas Alvi</b><br/>CTO at AppZilla.in</h3>
+                <a href="https://www.linkedin.com/in/anas-alvi-9b7453a4/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>

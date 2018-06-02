@@ -13,18 +13,23 @@ class Social extends React.Component {
                     </h2>
                     <ul className="list-inline list-social">
                         <li className="list-inline-item social-twitter">
-                            <a href="https://twitter.com/Rays_Net">
+                            <a target="_blank" href="https://twitter.com/Rays_Net">
                                 <i className="fa fa-twitter"/>
                             </a>
                         </li>
                         <li className="list-inline-item social-facebook">
-                            <a href="https://www.facebook.com/RaysNetwork/">
+                            <a target="_blank" href="https://www.facebook.com/RaysNetwork/">
                                 <i className="fa fa-facebook"/>
                             </a>
                         </li>
                         <li className="list-inline-item social-google-plus">
-                            <a href="t.me/RaysNetwork">
+                            <a target="_blank" href="t.me/RaysNetwork">
                                 <i className="fa fa-telegram"/>
+                            </a>
+                        </li>
+                        <li className="list-inline-item social-github">
+                            <a target="_blank" href="https://github.com/RaysNetwork ">
+                                <i className="fa fa-github"/>
                             </a>
                         </li>
                     </ul>
