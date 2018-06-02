@@ -417,7 +417,7 @@ section#features .feature-item p {
   color: #ffd7e7;
 }
 section.features .section-heading h2:before {
-  content: "";
+  /*content: "";
   display: block;
   height: 120px;
   width: 20px;
@@ -425,7 +425,7 @@ section.features .section-heading h2:before {
   left: 50%;
   position: absolute;
   border-left: 2px dotted #40e1d1;
-  border-right: 1px dashed #fe3684;
+  border-right: 1px dashed #fe3684;*/
 }
 section.features .feature-item h3 {
   font-size: 24px;

@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import {Container, Row, Col} from 'react-grid-system';
 import ArticleCover from './blocks/houses/Article Cover.js';
 import SectionDescription from './blocks/Section Description.js';
-
+import LazyLoad from 'react-lazyload';
 class Features extends React.Component {
     render() {
         return (
@@ -149,7 +149,9 @@ class Features extends React.Component {
                                     <div className="col-lg-12">
                                         <br /><br />
                                         <h3 className="tlx00">Coins distribution</h3>
+                                        <LazyLoad height={100}>
                                         <img src="/img/coins-distribution.svg"/>
+                                        </LazyLoad>
                                     </div>
                                 </div>
 
