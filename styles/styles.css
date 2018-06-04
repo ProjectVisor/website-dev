@@ -57,14 +57,20 @@ nav > a:last-of-type {
   margin-right: 0;
 }
 .navbar {
-  padding: 1.5em;
+  padding: 1.0em;
 }
 .navbar-brand,
 .navbar-shrink .navbar-brand {
   background: url(/img/visor-logo-blk.svg) no-repeat 100%;
   font-size: 0;
-  height: 70px;
-  width: 89px;
+  height: 48px; /* 25 */
+  width: 89px; /* 75 */
+
+}
+#mainNav.navbar-shrink{
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999
 }
 @media only screen and (min-width: 992px) {
   .navbar-brand {
