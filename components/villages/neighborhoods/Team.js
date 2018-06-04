@@ -74,7 +74,7 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/daniel.PNG" />
                 </LazyLoad>
-                <h3><b>Daniel Steeves</b><br/>Editor at ICO Crowd </h3>
+                <h3><b>Daniel Steeves</b><br/>CEO - Steeves Solution</h3>
                 <a href="https://www.linkedin.com/in/danielsteeves/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
@@ -123,6 +123,18 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3><b>Muhammad Shakeel</b><br/>CEO - BandZ Network</h3>
                 <a href="https://www.linkedin.com/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/chakrabarty.png" />
+                </LazyLoad>
+                <h3><b>Dr. Subhajit Chakrabarty</b><br/>Ph.D Finance, Ph.D in Computer Science</h3>
+                <a href="https://www.linkedin.com/in/chakrabarty/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -202,6 +214,18 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3><b>Anas Alvi</b><br/>CTO at AppZilla.in</h3>
                 <a href="https://www.linkedin.com/in/anas-alvi-9b7453a4/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/umer-aslam.png" />
+                </LazyLoad>
+                <h3><b>Umer Aslam</b><br/>CEO at Digitize Coin, Former Portfolio Manager at IBM</h3>
+                <a href="https://www.linkedin.com/in/umer-aslam-03b06a40/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -300,18 +324,6 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3><b>Guillaume Droesch</b><br/>Head of Sales at Coinounce UK</h3>
                 <a href="https://www.linkedin.com/in/guillaume-droesch-63810b149/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/ross.PNG" />
-                </LazyLoad>
-                <h3><b>Ross Belhomme</b><br/>Senior Associate at J. P. Morgan</h3>
-                <a href="https://www.linkedin.com/in/rossbelhomme/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -485,7 +497,50 @@ class Team extends React.Component {
               </div>
             </div>
 
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/vivek.png" />
+                </LazyLoad>
+                <h3><b>Vivek Lalan </b><br/>iOS Developer</h3>
+                <a href="https://www.linkedin.com/in/vivek-lalan-880b5a80/ "><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
           </div>
+
+          <div className="al-sab-heading">
+            <h3>Blockchain Developers</h3>
+          </div>
+          <div className="row">
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/sal.png" />
+                </LazyLoad>
+                <h3><b>Sal Kuyateh</b><br/>Blockchain  Developer</h3>
+                <a href="https://www.linkedin.com/in/sal-kuyateh-25905182/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/lazik.png" />
+                </LazyLoad>
+                <h3><b>Nemanja Lazic</b><br/>Blockchain  Developer</h3>
+                <a href="https://www.linkedin.com/in/nemanja-lazic-743969153/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+          </div>
+
           </div>
       </section>
 	  )
