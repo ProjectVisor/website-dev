@@ -23,7 +23,7 @@ class Social extends React.Component {
                             </a>
                         </li>
                         <li className="list-inline-item social-google-plus">
-                            <a target="_blank" href="t.me/RaysNetwork">
+                            <a target="_blank" href="https://t.me/RaysNetwork">
                                 <i className="fa fa-telegram"/>
                             </a>
                         </li>
