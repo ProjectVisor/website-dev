@@ -445,7 +445,7 @@ footer ul li a.active, footer ul li a:active, footer ul li a:focus, footer ul li
 }
 
 .buy_rays_bg {
-    background-image: url(../img/buy_rays_bg.png) !important;
+    background-image: none !important;
 }
 
 section.contact ul.list-social li.social-github a {

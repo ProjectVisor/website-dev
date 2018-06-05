@@ -10,7 +10,7 @@ class BuyRays extends React.Component {
         <div className="cta-content">
           <div className="container">
             <h2>Private and Pre Sale information is coming soon</h2>
-            <a href="#contact" className="btn btn-outline btn-xl js-scroll-trigger">Find out more</a>
+            <a href="#" className="btn btn-outline btn-xl js-scroll-trigger">Coming Up Soon</a>
           </div>
         </div>
         <div className="overlay"></div>

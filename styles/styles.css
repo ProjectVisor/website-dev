@@ -422,6 +422,9 @@ section#features .feature-item {
 section#features .feature-item p {
   color: #ffd7e7;
 }
+section.features{
+ border-top: 2px dotted #33d4ce;
+}
 section.features .section-heading h2:before {
   /*content: "";
   display: block;
@@ -568,4 +571,7 @@ section#road-map .text-muted {
 }
 .coins-distrib img{
   max-width: 100%;
+}
+.pws09{
+  max-width: 70%;
 }

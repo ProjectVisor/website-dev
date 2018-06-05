@@ -13,6 +13,7 @@ import Wallet from './neighborhoods/Wallet';
 import Social from './neighborhoods/Social';
 import RoadMap from './neighborhoods/RoadMap';
 import Footer from './neighborhoods/Footer';
+import Problem from './neighborhoods/Problem';
 
 class LandingPage extends React.Component {
     render() {
@@ -24,6 +25,7 @@ class LandingPage extends React.Component {
                     btnLabel={"Learn more about RAYS"}
                 />
                 <Features/>
+                <Problem/>
                 <VisorPay/>
                 <VisorEnterprise/>
                 <Skymap/>

@@ -32,6 +32,11 @@ class Skymap extends React.Component {
                   <div class="carousel-caption">
                   </div>
               </div>
+              <div class="carousel-item">
+                <img src="/img/arcadiamgroup.png" alt="Arcadiamgroup" height="100" />
+                  <div class="carousel-caption">
+                  </div>
+              </div>
             </div>
             <a class="carousel-control-prev" href="#demo" data-slide="prev">
               <span class="carousel-control-prev-icon"></span>

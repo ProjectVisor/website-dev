@@ -133,8 +133,20 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                   <img className="team-list-img" src="/img/team/Chakrabarty.png" />
                 </LazyLoad>
-                <h3><b>Dr. Subhajit Chakrabarty</b><br/>Ph.D Finance, Ph.D in Computer Science</h3>
+                <h3><b>Dr. Subhajit Chakrabarty</b><br/>Ph.D Finance, Ph.D Researcher in Computer Science</h3>
                 <a href="https://www.linkedin.com/in/chakrabarty/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/tullah.png" />
+                </LazyLoad>
+                <h3><b>Kamish Rehmatulla</b><br/>CEO - Arcadia Media Group</h3>
+                <a href="https://www.linkedin.com/in/rasikh-morani-93802a58/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -504,6 +516,18 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3><b>Vivek Lalan </b><br/>iOS Developer</h3>
                 <a href="https://www.linkedin.com/in/vivek-lalan-880b5a80/ "><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/rasikh.png" />
+                </LazyLoad>
+                <h3><b>Rasikh Morani</b><br/>CITO - Arcadia Media Group</h3>
+                <a href="https://www.linkedin.com/in/rasikh-morani-93802a58/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
