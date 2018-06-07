@@ -107,10 +107,10 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/philip.PNG" />
+                  <img className="team-list-img" src="/img/team/simon.PNG" />
                 </LazyLoad>
-                <h3><b>Philip Amara</b><br/>Blockchain Strategist</h3>
-                <a href="https://www.linkedin.com/in/danielsteeves/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <h3><b>Simon Emil Bierling</b><br/>Former Twitter Employee - Founder at ICOSocial</h3>
+                <a href="https://www.linkedin.com/in/simonbierling/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -147,6 +147,18 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3><b>Kamish Rehmatulla</b><br/>CEO - Arcadia Media Group</h3>
                 <a href="https://www.linkedin.com/in/rasikh-morani-93802a58/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/joss.png" />
+                </LazyLoad>
+                <h3><b>Joss Colchester</b><br/>Founder & Director at Complexity Labs</h3>
+                <a href="https://www.linkedin.com/in/josscolchester/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -285,18 +297,19 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
-
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/simon.PNG" />
+                  <img className="team-list-img" src="/img/team/philip.PNG" />
                 </LazyLoad>
-                <h3><b>Simon Emil Bierling</b><br/>Former Twitter Employee - Founder at ICOSocial</h3>
-                <a href="https://www.linkedin.com/in/simonbierling/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <h3><b>Philip Amara</b><br/>Blockchain Strategist</h3>
+                <a href="https://www.linkedin.com/in/danielsteeves/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
             </div>
+
+
 
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">

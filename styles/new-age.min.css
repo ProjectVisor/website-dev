@@ -444,9 +444,7 @@ footer ul li a.active, footer ul li a:active, footer ul li a:focus, footer ul li
     background-position: center;
 }
 
-.buy_rays_bg {
-    background-image: none !important;
-}
+
 
 section.contact ul.list-social li.social-github a {
     background-color: #7b4397
@@ -459,4 +457,8 @@ section.contact ul.list-social li.social-github a:hover {
 .footer-div {
     text-align: center;
     color: #fff;
+}
+.buy_rays_bg {
+    background-color: linear-gradient(to right, rgb(15, 17, 90), rgb(44, 11, 2)) no-repeat !important;
+    background: linear-gradient(to right, rgb(15, 17, 90), rgb(44, 11, 2)) no-repeat !important;
 }
