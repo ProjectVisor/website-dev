@@ -33,7 +33,7 @@ class Nav extends React.Component {
               </li>
 
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#visorEnterprise">Referral</a>
+                <a className="nav-link js-scroll-trigger" href="https://referral.rays.network">Referral</a>
               </li>
 
               <li className="nav-item">
