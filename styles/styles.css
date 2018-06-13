@@ -580,3 +580,13 @@ section#road-map .text-muted {
   color: rgba(0, 0, 0, 0.5);
   padding-bottom: 10px;
 }
+.full-width-feature{
+  max-width: 100% !important;
+}
+.center-wala{
+  margin: 0 auto;
+}
+.full-width-feature ul li{
+  font-size: 22px;
+  line-height: 40px;
+}

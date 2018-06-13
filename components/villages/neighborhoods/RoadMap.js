@@ -10,7 +10,7 @@ class Features extends React.Component {
             <section className="features" id="road-map">
                 <div className="container">
                     <div className="section-heading text-center">
-                        <h2>Road Map</h2>
+                        <h2>SKYMAP (Road to Sky)</h2>
                         <p>Discover RAYS Road Map</p>
                         <hr/>
                     </div>
@@ -48,8 +48,8 @@ class Features extends React.Component {
                                             <h3>Q2 2018</h3>
                                             <ul>
                                                 <li>Website Launch</li>
-                                                <li>RAYS Enterprise Registration</li>
-                                                <li>RAYS Roadmap</li>
+                                                <li>RAYS Network Ltd registration (first office in UK)</li>
+                                                <li>RAYS Skymap</li>
                                                 <li>Pre-launch marketing strategy and materials</li>
                                                 <li>Research regulations and compliance procedures</li>
                                                 <li>RAYS Enterprise and Digital ID Core Preparation</li>
@@ -57,15 +57,14 @@ class Features extends React.Component {
                                                 <li>Find current projects that will provide valuable functionality to
                                                     RAYS Enterprise
                                                 </li>
-                                                <li>Pre-whitepaper release</li>
+                                                <li>Whitepaper 1.0 release</li>
                                                 <li>Preparation for AI Master Nodes Dev & Quantum Proof</li>
                                                 <li>Preparation of Digital ID Implementation</li>
                                                 <li>Understanding Industries and Integration</li>
                                                 <li>Marketing campaigns launched to increase awareness of RAYS Project
                                                 </li>
                                                 <li>Preparation for Private and Pre Sale</li>
-                                                <li>Team Extension</li>
-                                                <li>Minimum Viable Product (MVP)</li>
+                                                <li>AlphaMVP - RAYS Simulator 1 </li>
                                                 <li>ERC20 Smart Contract for Token Sale</li>
                                                 <li>Smart Contract Audit</li>
 
@@ -81,15 +80,12 @@ class Features extends React.Component {
                                             <h3>Q3 2018</h3>
                                             <ul>
                                                 <li>Private and Pre Sale</li>
-                                                <li>First whitepaper 1.0 release</li>
+                                                <li>Technical whitepaper 1.0 release</li>
                                                 <li>Preparation for Exchange Listings</li>
                                                 <li>Preparation for RAYS Cloud Wallet</li>
-                                                <li>FBN blockchain development with TOR/I2P integration network</li>
+                                                <li>FBN  Blockchain Development Starts</li>
                                                 <li>Release of Cloud wallet</li>
                                                 <li>RAYS Partnerships</li>
-                                                <li>Academic Collaborations and Establishment of RAYS Research
-                                                    Laboratory
-                                                </li>
                                                 <li>Preparation of Windows and Linux wallets</li>
                                                 <li>RAYS Enterprise Relocation</li>
                                                 <li>Prepare for RAYS Exchange</li>
@@ -112,11 +108,12 @@ class Features extends React.Component {
                                                 <li>Listing on https://coinmarketcap.com</li>
                                                 <li>Preparation for RAYS Smart Contracts</li>
                                                 <li>Release RAYS Exchange</li>
-                                                <li>Whitepaper Update 1.1</li>
-                                                <li>Release New Roadmap for 2019</li>
+                                                <li>Technical Whitepaper Update 1.1</li>
+                                                <li>Release New Skymap for 2019</li>
                                                 <li>Preparation for RAYS Mobile App</li>
-
-
+    <li>Establishment of RAYS office in Asia</li>
+<li>Academic Collaborations and Establishment of RAYS Research Laboratory</li>
+                                                <li>Skymap for year 2019 release</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -139,7 +136,6 @@ class Features extends React.Component {
                                                 <li>RAYS Mainnet Deployment</li>
                                                 <li>And a lot more to come</li>
 
-
                                             </ul>
                                         </div>
                                     </div>
@@ -150,7 +146,7 @@ class Features extends React.Component {
                                         <br /><br />
                                         <h3 className="tlx00">Coins distribution</h3>
                                         <LazyLoad height={100}>
-                                        <img src="/img/coins-distribution.svg"/>
+                                        <img src="/img/coins-distribution.png"/>
                                         </LazyLoad>
                                     </div>
                                 </div>

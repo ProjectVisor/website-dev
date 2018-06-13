@@ -17,6 +17,30 @@ class Features extends React.Component {
           <div className="row">
             <div className="col-12 my-auto">
               <div className="container-fluid">
+
+                <div className="row">
+                  <div className="col-lg-10 center-wala">
+                    <div className="feature-item full-width-feature">
+                      <i className="fa fa-cubes text-primary"/>
+                      <h3>Prime RAYS Features</h3>
+                      <ul>
+                        <li>Customized Delegated Proof of Stake (CDPOS)</li>
+                        <li>Bulletproof Protocol for Privacy</li>
+                        <li>Flexible Blockchain Network (FBN) [Public and Private]</li>
+                        <li>Enterprise Privacy Blockchain Solution (EPBS)</li>
+                        <li>Zero Transaction Fee</li>
+                        <li>RAYS PAY & Microtransactions</li>
+                        <li>Multi Transaction System (MTS)</li>
+                        <li>RAYS Research Laboratory</li>
+                        <li>RAYS 3S Wallet</li>
+                        <li>Quantum Proof</li>
+                        <li>GDPR Compliance</li>
+
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="feature-item">
@@ -43,16 +67,27 @@ class Features extends React.Component {
                       <i className="fa fa-eye-slash text-primary"/>
                       <h3>Privacy and Security</h3>
                       <p>
-                        We will achieve real privacy and security by choosing the right algorithm (in this case the multi-algorithm protocol). By refining it in our unique way, we will be able to achieve really high network scalability and keep the highest standards of safety at the same time. The implementation of one of the two additional protocols such as TOR or I2P will allow our users to enjoy total privacy. Thanks to these two protocols, none of the transactions can be traced in any way
+                        We will achieve real privacy and security by choosing the right algorithm (in this case the Bulletproof Algorithm). By refining it in our unique way, we will be able to achieve really high network scalability and keep the highest standards of safety at the same time.
+                      </p>
+                    <p>
+                        The implementation of one of the two additional protocols such as TOR or I2P will allow our users to enjoy total privacy. Thanks to these two protocols, none of the transactions can be traced in any way.
+                    </p>
+                      <p>
+                        The implementation of the bulletproof protocol will make the RAYS Network also immune to attacks from quantum computers.
+
                       </p>
                     </div>
                   </div>
                   <div className="col-lg-6">
                     <div className="feature-item">
                       <i className="fa fa-diamond text-primary"/>
-                      <h3>Ultra Fast Transactions with Low fee</h3>
+                      <h3>Ultra Fast Transaction with Zero Fee</h3>
                       <p>
-                        By choosing a multi-algorithm protocol, we will be able to improve it in an appropriate and unique way for us to maximize the scalability of our blockchain network. Through the internal voting of our development team, we unanimously chose that our blockchain network will have the lowest possible transaction fee so that RAYS cryptocurrency may get well adopted at highest possible level.
+                        By choosing a multi-algorithm protocol, we will be able to improve it in an appropriate and unique way for us to maximize the scalability of our blockchain network.
+                      </p>
+                    <p>
+                        Through the internal voting of our development team, we unanimously chose that our blockchain network will have the zero transaction fee, which means that all transactions carried out by RAYS Network will have zero costs so that RAYS cryptocurrency may get well adopted at highest possible level.
+
                       </p>
                     </div>
                   </div>
