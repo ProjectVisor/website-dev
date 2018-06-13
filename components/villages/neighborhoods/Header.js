@@ -14,7 +14,7 @@ class Header extends React.Component {
           <div className="row h-100">
             <div className="col-lg-5">
               <div className="header-content mx-auto">
-                <h1 className="mb-5">Welcome to RAYS Network, A New Cryptocurrency and a Blockchain - “Earn Free RAYS of Worth $140 Now”.
+                <h1 className="mb-5"> Welcome to RAYS Network, A New Cryptocurrency and a Blockchain - “Earn Free RAYS of Worth $140 Now”.
                 </h1>
                 <a href="https://referral.rays.network" className="btn btn-outline btn-xl js-scroll-trigger pulse">
                   <span className="align-middle">Join Referral Program</span>
