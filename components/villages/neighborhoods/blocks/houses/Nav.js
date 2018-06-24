@@ -37,6 +37,10 @@ class Nav extends React.Component {
               </li>
 
               <li className="nav-item">
+                <a className="nav-link js-scroll-trigger" href="#">MVP</a>
+              </li>
+
+              <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#social">Sign Up/Login</a>
               </li>
             </ul>

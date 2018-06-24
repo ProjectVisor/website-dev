@@ -23,7 +23,7 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                   <img className="team-list-img" src="/img/team/tomek.PNG" />
                 </LazyLoad>
-                <h3>Tomek Betko</h3>
+                <h3>Tomasz Betko</h3>
                 <div className="member-role">CEO</div>
                 <a href="https://www.linkedin.com/in/tomek-betko-8b4937155/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
@@ -129,7 +129,7 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                   <img className="team-list-img" src="/img/team/shakil.PNG" />
                 </LazyLoad>
-                <h3>Muhammad Shakeel</h3>
+                <h3>Muhammad Shakil</h3>
                 <div className="member-role">CEO - BandZ Network</div>
                 <a href="https://www.linkedin.com/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
@@ -157,7 +157,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>Kamish Rehmatulla</h3>
                 <div className="member-role">CEO - Arcadia Media Group</div>
-                <a href="https://www.linkedin.com/in/rasikh-morani-93802a58/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/kamish-rehmatulla-7922729a/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -360,30 +360,10 @@ class Team extends React.Component {
               </div>
             </div>
 
-          </div>
-
-          <div className="al-sab-heading">
-            <h3>Business Managers</h3>
-          </div>
-          <div className="row">
-
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/gui.PNG" />
-                </LazyLoad>
-                <h3>Guillaume Droesch</h3>
-                <div className="member-role">Head of Sales at Coinounce UK</div>
-                <a href="https://www.linkedin.com/in/guillaume-droesch-63810b149/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/sadia.PNG" />
+                  <img className="team-list-img" src="/img/team/sadia.PNG" />
                 </LazyLoad>
                 <h3>Sadia Bruce</h3>
                 <div className="member-role">Business Development Officer</div>
@@ -392,6 +372,13 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
+
+          </div>
+
+          <div className="al-sab-heading">
+            <h3>Business Managers</h3>
+          </div>
+          <div className="row">
 
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
@@ -594,6 +581,33 @@ class Team extends React.Component {
             <h3>Blockchain Developers</h3>
           </div>
           <div className="row">
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/default.jpg" />
+                </LazyLoad>
+                <h3>Dr. Mattias Kruskopf (Ph.D)</h3>
+                <div className="member-role">Post Doctorate at NIST - USA</div>
+                <a href="https://www.linkedin.com/in/mattias-kruskopf-bb7b9b165/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/default.jpg" />
+                </LazyLoad>
+                <h3>Hassan Hashmi</h3>
+                <div className="member-role">DPoS Architecture Design </div>
+                <a href="https://www.linkedin.com/in/hassaan-hashmi-258523b6/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
