@@ -26,7 +26,7 @@ class Nav extends React.Component {
               </li>
 
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#whitepaper">Team</a>
+                <a className="nav-link js-scroll-trigger" href="#team">Team</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#wallet">3S Wallet</a>
