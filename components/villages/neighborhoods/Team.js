@@ -597,7 +597,7 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/default.jpg" />
+                  <img className="team-list-img" src="/img/team/hassan.jpg" />
                 </LazyLoad>
                 <h3>Hassan Hashmi</h3>
                 <div className="member-role">DPoS Architecture Design </div>
