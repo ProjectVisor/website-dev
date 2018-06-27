@@ -409,19 +409,6 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/darryl.PNG" />
-                </LazyLoad>
-                <h3>Darryl Lo</h3>
-                <div className="member-role">CEO at Alpha Blockchain Solution</div>
-                <a href="https://www.linkedin.com/in/darryl-lo/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/riasat.PNG" />
                 </LazyLoad>
                 <h3>Riasad Hadi Hossain</h3>
