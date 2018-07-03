@@ -18,8 +18,12 @@ class Header extends React.Component {
                 </h1>
                 <a href="https://referral.rays.network" className="btn btn-outline btn-xl js-scroll-trigger pulse">
                   <span className="align-middle">Join Referral Program</span>
-                  <i className="fa fa-angle-down fa-2x align-middle" />
                 </a>
+
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeR_DPHQY8UYofGipFCyYDXRbuzxztp3ET5JPUEAd-dRUtLKg/viewform" className="btn btn-outline btn-x2 getwhitlisted-btn">
+                  <span className="align-middle">Get Whitelisted</span>
+                </a>
+
               </div>
             </div>
             <div className="col-lg-7 my-auto">

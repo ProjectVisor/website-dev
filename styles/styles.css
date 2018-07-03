@@ -590,3 +590,8 @@ section#road-map .text-muted {
   font-size: 22px;
   line-height: 40px;
 }
+.getwhitlisted-btn{
+  margin-top: 10px;
+  background-color: transparent;
+  background: transparent;
+}

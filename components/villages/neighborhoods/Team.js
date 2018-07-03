@@ -571,7 +571,7 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/default.jpg" />
+                  <img className="team-list-img" src="/img/team/mattis.jpg" />
                 </LazyLoad>
                 <h3>Dr. Mattias Kruskopf (Ph.D)</h3>
                 <div className="member-role">Post Doctorate at NIST - USA</div>
