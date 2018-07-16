@@ -20,8 +20,8 @@ class Header extends React.Component {
                   <span className="align-middle">Join Referral Program</span>
                 </a>
 
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeR_DPHQY8UYofGipFCyYDXRbuzxztp3ET5JPUEAd-dRUtLKg/viewform" className="btn btn-outline btn-x2 getwhitlisted-btn">
-                  <span className="align-middle">Get Whitelisted</span>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScKXICCg9GhShzXwliAVxhxkwJ2n3Ch3ozqcXmdDfgBnnGl4g/viewform" className="btn btn-outline btn-x2 getwhitlisted-btn">
+                  <span className="align-middle"> &nbsp;&nbsp;&nbsp;&nbsp; BUY RAYS &nbsp;&nbsp;&nbsp;&nbsp;</span>
                 </a>
 
               </div>

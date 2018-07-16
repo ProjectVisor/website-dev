@@ -8,7 +8,9 @@ class Footer extends React.Component {
     return (
       <section className="footer">
           <div className="container footer-div">
-              All Copyrights Reserved  - RAYS Network Ltd (UK)
+              All Copyrights Reserved  - RAYS Network Ltd. (UK)<br />
+              <a href="rays-terms-n-conditions.pdf">Terms & Conditions</a> |
+              <a href="privacy-policy.pdf"> Privacy Policy</a>
           </div>
       </section>
     )
