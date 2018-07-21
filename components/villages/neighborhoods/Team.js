@@ -352,7 +352,7 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/tatiana.PNG" />
                 </LazyLoad>
-                <h3>Tetiana Liulka</h3>
+                <h3>Tatiana Liulka</h3>
                 <div className="member-role">Graphic Designer</div>
                 <a href="https://www.linkedin.com/in/tetiana-liulka/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
@@ -409,37 +409,11 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/riasat.PNG" />
-                </LazyLoad>
-                <h3>Riasad Hadi Hossain</h3>
-                <div className="member-role">Social Media & ICO Expert</div>
-                <a href="https://www.linkedin.com/in/riasad-hadi-hossain-47b41a15a/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/aqib.PNG" />
                 </LazyLoad>
                 <h3>Aqib Malik</h3>
                 <div className="member-role">UAE Business Expert</div>
                 <a href="https://www.linkedin.com/in/aqib00/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/rangana.PNG" />
-                </LazyLoad>
-                <h3>Rangana Punchyihewa</h3>
-                <div className="member-role">Community Management Expert</div>
-                <a href="https://www.linkedin.com/in/rangana-punchihewa-56001182/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -466,19 +440,6 @@ class Team extends React.Component {
                 <h3>Ahmad Dewanto</h3>
                 <div className="member-role">ICO Campaign Management</div>
                 <a href="https://www.linkedin.com/in/ahmad-dewanto-choirul-huda/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/elisha.PNG" />
-                </LazyLoad>
-                <h3>Elisha Owusu Akyaw</h3>
-                <div className="member-role">Marketing Specialist</div>
-                <a href="https://www.linkedin.com/in/elisha-owusu-akyaw/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -531,19 +492,6 @@ class Team extends React.Component {
                 <h3>Roland Alexander</h3>
                 <div className="member-role">Crypto Consultant</div>
                 <a href="https://www.linkedin.com/in/roland-alexander-47aa432b/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/vivek.png" />
-                </LazyLoad>
-                <h3>Vivek Lalan</h3>
-                <div className="member-role">iOS Developer</div>
-                <a href="https://www.linkedin.com/in/vivek-lalan-880b5a80/ "><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
