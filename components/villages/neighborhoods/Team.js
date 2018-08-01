@@ -21,11 +21,11 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/tomek.PNG" />
+                <img className="team-list-img" src="/img/team/umar.PNG" />
                 </LazyLoad>
-                <h3>Tomasz Betko</h3>
-                <div className="member-role">CEO</div>
-                <a href="https://www.linkedin.com/in/tomek-betko-8b4937155/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <h3>Umar Shafiq</h3>
+                <div className="member-role">Chief Executive Officer </div>
+                <a href="https://www.linkedin.com/in/drumarshafiq29/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -33,11 +33,11 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/umar.PNG" />
+                  <img className="team-list-img" src="/img/team/tomek.PNG" />
                 </LazyLoad>
-                <h3>Umar Shafiq</h3>
-                <div className="member-role">Chief Strategy Officer </div>
-                <a href="https://www.linkedin.com/in/drumarshafiq29/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <h3>Tomasz Betko</h3>
+                <div className="member-role">Director</div>
+                <a href="https://www.linkedin.com/in/tomek-betko-8b4937155/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -81,6 +81,18 @@ class Team extends React.Component {
                 <h3>Daniel Steeves</h3>
                 <div className="member-role">CEO - Steeves Solution</div>
                 <a href="https://www.linkedin.com/in/danielsteeves/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/mattis.jpg" />
+                </LazyLoad>
+                <h3>Dr. Mattias Kruskopf (Ph.D)</h3>
+                <div className="member-role">Post Doctorate at NIST - USA</div>
+                <a href="https://www.linkedin.com/in/mattias-kruskopf-bb7b9b165/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -171,6 +183,19 @@ class Team extends React.Component {
                 <h3>Joss Colchester</h3>
                 <div className="member-role">Founder & Director at Complexity Labs</div>
                 <a href="https://www.linkedin.com/in/josscolchester/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/vanipha.jpg" />
+                </LazyLoad>
+                <h3>Wannipha Crypto Jen Buakaew</h3>
+                <div className="member-role">Jenny from the Blockchain</div>
+                <a href="https://www.linkedin.com/in/jennyfromtheblockchain/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -510,24 +535,27 @@ class Team extends React.Component {
               </div>
             </div>
 
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/Divij.jpg" />
+                </LazyLoad>
+                <h3>Divij Sood</h3>
+                <div className="member-role">Business Manager at RAYS Network</div>
+                <a href="https://www.linkedin.com/in/coreywilton10/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+
           </div>
 
           <div className="al-sab-heading">
             <h3>Blockchain Developers</h3>
           </div>
           <div className="row">
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/mattis.jpg" />
-                </LazyLoad>
-                <h3>Dr. Mattias Kruskopf (Ph.D)</h3>
-                <div className="member-role">Post Doctorate at NIST - USA</div>
-                <a href="https://www.linkedin.com/in/mattias-kruskopf-bb7b9b165/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
+
 
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
