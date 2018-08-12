@@ -10,7 +10,7 @@ class Wallet extends React.Component {
         <div className="cta-content">
           <div className="container">
             <h2>RAYS 3S Wallet </h2><h2>(Safe, Secure and Smart)</h2>
-            <a target="_blank" href="wallet.rays.network" className="btn btn-outline btn-xl js-scroll-trigger">Goto Wallet</a>
+            <a target="_blank" href="http://wallet.rays.network" className="btn btn-outline btn-xl js-scroll-trigger">Goto Wallet</a>
           </div>
         </div>
         <div className="overlay"></div>
