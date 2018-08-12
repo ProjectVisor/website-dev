@@ -598,3 +598,7 @@ section#road-map .text-muted {
 .center-de-content{
   text-align: center;
 }
+
+.center-de-content img{
+  max-width: 100%;
+}
