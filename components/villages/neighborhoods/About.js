@@ -11,6 +11,9 @@ class Features extends React.Component {
         <div className="container">
           <div className="section-heading text-center">
             <div className="row">
+              <div className="col-md-12 center-de-content">
+                <img src="/img/comparison.svg" />
+              </div>
               <div className="col-md-12">
               <iframe width="100%" height="415" src="https://www.youtube.com/embed/KPx4MVuatbc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div>
