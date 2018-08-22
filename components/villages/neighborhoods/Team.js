@@ -200,6 +200,18 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
+<div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/savio.jpg" />
+                </LazyLoad>
+                <h3>Savio Gomez</h3>
+                <div className="member-role">Fintech Blockchain AI Start up Advisor</div>
+                <a href="https://www.linkedin.com/in/savio-gomez-capt/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
 
           </div>
 
