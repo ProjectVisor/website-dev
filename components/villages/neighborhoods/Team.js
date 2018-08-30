@@ -165,19 +165,6 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/tullah.png" />
-                </LazyLoad>
-                <h3>Kamish Rehmatulla</h3>
-                <div className="member-role">CEO - Arcadia Media Group</div>
-                <a href="https://www.linkedin.com/in/kamish-rehmatulla-7922729a/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                   <img className="team-list-img" src="/img/team/joss.png" />
                 </LazyLoad>
                 <h3>Joss Colchester</h3>
@@ -311,6 +298,19 @@ class Team extends React.Component {
               </div>
             </div>
 
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/kasal.jpg" />
+                </LazyLoad>
+                <h3>Robert Schmidt</h3>
+                <div className="member-role">Content WriterM</div>
+                <a href="https://www.linkedin.com/in/robert-schmidt-2a8b9875/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
           </div>
 
           <div className="al-sab-heading">
@@ -433,37 +433,11 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/rodrigo.PNG" />
-                </LazyLoad>
-                <h3>Rodrigo Duarte Freitas</h3>
-                <div className="member-role">Blockchain Marketing Specialist</div>
-                <a href="https://www.linkedin.com/in/rodrigo-duarte-freitas-b48944159/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/aqib.PNG" />
                 </LazyLoad>
                 <h3>Aqib Malik</h3>
                 <div className="member-role">UAE Business Expert</div>
                 <a href="https://www.linkedin.com/in/aqib00/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/luciano.PNG" />
-                </LazyLoad>
-                <h3>Luciano DeAngelo</h3>
-                <div className="member-role">Project Manager at ARCADIA</div>
-                <a href="https://www.linkedin.com/in/lucianodeangelo/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -537,19 +511,6 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/rasikh.png" />
-                </LazyLoad>
-                <h3>Rasikh Morani</h3>
-                <div className="member-role">CITO - Arcadia Media Group</div>
-                <a href="https://www.linkedin.com/in/rasikh-morani-93802a58/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
                   <img className="team-list-img" src="/img/team/Divij.jpg" />
                 </LazyLoad>
                 <h3>Divij Sood</h3>
@@ -568,6 +529,18 @@ class Team extends React.Component {
           </div>
           <div className="row">
 
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/makus.jpg" />
+                </LazyLoad>
+                <h3>Markus Saitmacher</h3>
+                <div className="member-role">Lead Developer </div>
+                <a href="https://www.linkedin.com/in/markus-saitmacher-b68164152/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
 
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
@@ -581,7 +554,6 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
-
 
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
