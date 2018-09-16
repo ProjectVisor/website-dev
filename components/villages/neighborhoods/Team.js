@@ -54,6 +54,19 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/micheal.PNG" />
+                </LazyLoad>
+                <h3>Michael Gehlert</h3>
+                <div className="member-role">Chief Business Officer</div>
+                <a href="https://www.linkedin.com/in/rechtsberatung/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
           </div>
 
 
@@ -143,7 +156,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>Muhammad Shakil</h3>
                 <div className="member-role">CEO - BandZ Network</div>
-                <a href="https://www.linkedin.com/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/shakilkaist"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -180,7 +193,7 @@ class Team extends React.Component {
                 <LazyLoad height={100}>
                   <img className="team-list-img" src="/img/team/vanipha.jpg" />
                 </LazyLoad>
-                <h3>Wannipha Crypto Jen Buakaew</h3>
+                <h3>Wannipha Jen Buakaew</h3>
                 <div className="member-role">Jenny from the Blockchain</div>
                 <a href="https://www.linkedin.com/in/jennyfromtheblockchain/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
@@ -200,6 +213,19 @@ class Team extends React.Component {
               </div>
             </div>
 
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/thomas.jpg" />
+                </LazyLoad>
+                <h3>Thomas Enechi</h3>
+                <div className="member-role">Entrepreneur | Blockchain/ICO Advisor</div>
+                <a href="https://www.linkedin.com/in/chitom/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
           </div>
 
           <div className="al-sab-heading">
@@ -210,11 +236,25 @@ class Team extends React.Component {
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
+                  <img className="team-list-img" src="/img/team/amorgia.jpg" />
+                </LazyLoad>
+                <h3>Pankaj Gupta</h3>
+                <div className="member-role">Blockchain Entrepreneur | Angel Investor | Advisorr</div>
+                <a href="https://www.linkedin.com/in/pankajmhealth/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <p className="text-muted">
+                </p>
+              </div>
+            </div>
+
+
+            <div className="col-lg-4 team-item-row">
+              <div className="feature-item">
+                <LazyLoad height={100}>
                 <img className="team-list-img" src="/img/team/keiren.PNG" />
                 </LazyLoad>
                 <h3>Keiran Hussey</h3>
                 <div className="member-role">Blockchain HR Manager</div>
-                <a href="https://www.linkedin.com/in/blockchain/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/keiran-hussey"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -241,19 +281,6 @@ class Team extends React.Component {
                 <h3>Pankhuri Bansal</h3>
                 <div className="member-role">Marketing Manager at Bitcoin Gold and Huboi Token</div>
                 <a href="https://www.linkedin.com/in/pankhuri-bansal-54097318/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                  <img className="team-list-img" src="/img/team/talha.png" />
-                </LazyLoad>
-                <h3>Taha Dhailey</h3>
-                <div className="member-role">DApp Developer and Blockchain Trainer</div>
-                <a href="https://www.linkedin.com/in/taha-dhailey-0a813b83/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -304,7 +331,7 @@ class Team extends React.Component {
                   <img className="team-list-img" src="/img/team/kasal.jpg" />
                 </LazyLoad>
                 <h3>Robert Schmidt</h3>
-                <div className="member-role">Content WriterM</div>
+                <div className="member-role">Content Writer</div>
                 <a href="https://www.linkedin.com/in/robert-schmidt-2a8b9875/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
@@ -325,7 +352,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>Bilal Dastagir</h3>
                 <div className="member-role">CEO of rayswallet.com, Specialist Cryptographer</div>
-                <a href="https://www.linkedin.com/in/bilal-dastagir-b807797a/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/bilal-dastagir-msc-eng-b807797a"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -351,7 +378,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>Emily Su</h3>
                 <div className="member-role">Business Strategy Officer</div>
-                <a href="https://www.linkedin.com/in/shahidkarimi"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/emilysu2018"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -363,7 +390,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>Philip Amara</h3>
                 <div className="member-role">Blockchain Strategist</div>
-                <a href="https://www.linkedin.com/in/danielsteeves/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/philip-a-198885156"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -378,7 +405,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>David Bochno</h3>
                 <div className="member-role">Social Media Expert</div>
-                <a href="https://www.linkedin.com/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/dawid-bochno-596444165"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
@@ -455,20 +482,6 @@ class Team extends React.Component {
                 </p>
               </div>
             </div>
-
-            <div className="col-lg-4 team-item-row">
-              <div className="feature-item">
-                <LazyLoad height={100}>
-                <img className="team-list-img" src="/img/team/micheal.PNG" />
-                </LazyLoad>
-                <h3>Michael Gehlert</h3>
-                <div className="member-role">Blockchain Enthusiast</div>
-                <a href="https://www.linkedin.com/in/rechtsberatung/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
-                <p className="text-muted">
-                </p>
-              </div>
-            </div>
-
             <div className="col-lg-4 team-item-row">
               <div className="feature-item">
                 <LazyLoad height={100}>
@@ -515,7 +528,7 @@ class Team extends React.Component {
                 </LazyLoad>
                 <h3>Divij Sood</h3>
                 <div className="member-role">Business Manager at RAYS Network</div>
-                <a href="https://www.linkedin.com/in/coreywilton10/"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
+                <a href="https://www.linkedin.com/in/divijsood3"><i className="fa fa-linkedin-square linked-in-ico"></i></a>
                 <p className="text-muted">
                 </p>
               </div>
