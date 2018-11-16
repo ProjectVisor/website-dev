@@ -22,10 +22,6 @@ class Nav extends React.Component {
               </li>
 
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#buyRays">Buy RAYS</a>
-              </li>
-
-              <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#team">Team</a>
               </li>
               <li className="nav-item">
@@ -33,15 +29,11 @@ class Nav extends React.Component {
               </li>
 
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="https://referral.rays.network">Referral</a>
+                <a className="nav-link js-scroll-trigger" href="#buyRays">Buy RAYS</a>
               </li>
 
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="httP://mvp.rays.network">MVP</a>
-              </li>
-
-              <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#social">Sign Up/Login</a>
               </li>
             </ul>
           </div>

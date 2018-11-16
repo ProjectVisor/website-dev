@@ -16,9 +16,6 @@ class Header extends React.Component {
               <div className="header-content mx-auto">
                 <h1 className="mb-5">Welcome to RAYS Network, the Second Generation of Ethereum.
                 </h1>
-                <a href="https://referral.rays.network" className="btn btn-outline btn-xl js-scroll-trigger pulse">
-                  <span className="align-middle">Join Referral Program</span>
-                </a>
 
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScKXICCg9GhShzXwliAVxhxkwJ2n3Ch3ozqcXmdDfgBnnGl4g/viewform" className="btn btn-outline btn-x2 getwhitlisted-btn">
                   <span className="align-middle"> &nbsp;&nbsp;&nbsp;&nbsp; BUY RAYS &nbsp;&nbsp;&nbsp;&nbsp;</span>
